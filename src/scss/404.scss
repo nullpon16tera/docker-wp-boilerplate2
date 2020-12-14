@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+@import "mixins/sgradient";
+@import "mixins/iphonex";
+@import "app/variables";
+@import "app/scrollbar";
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+html,body {
+	height: 100%;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: $font-family-sans-serif;
+	font-size: 14px;
+
+	@media (min-width: $md-min) {
+		overflow: hidden;
+	}
+}

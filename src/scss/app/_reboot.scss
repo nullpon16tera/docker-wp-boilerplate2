@@ -1,0 +1,247 @@
+/**
+ * CSS Reset
+ * Default StyleSheet Normalize
+ *
+ * @since 0.1
+ * @author MIRAI Inc.
+ */
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+	touch-action: manipulation;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+html, body {
+	width: 100%;
+}
+
+body {
+	min-width: 300px;
+	margin: 0;
+	padding: 0;
+  // font-feature-settings: "palt";
+	font-family: $font-family-sans-serif;
+  font-size: 1.6rem;
+  color: $color-text;
+  letter-spacing: -0.015em;
+  text-align: left;
+	background-color: white;
+  -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
+}
+
+* {
+	&,
+	&:before,
+	&:after {
+    box-sizing: inherit;
+    -webkit-font-smoothing: antialiased;
+    word-break: break-word;
+    word-wrap: break-word;
+	}
+}
+
+#site-content {
+  overflow: hidden;
+}
+
+.entry-content::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+header,
+footer,
+nav,
+figure,
+figcaption,
+main,
+article,
+section,
+aside {
+	display: block;
+}
+
+main {
+	width: 100%;
+}
+
+a,
+area,
+button,
+[role="button"],
+input:not([type=range]),
+label,
+select,
+summary,
+textarea {
+	touch-action: manipulation;
+}
+
+button {
+	appearance: none;
+	cursor: pointer;
+	padding: 0.5em 1em;
+	border: 1px solid #ccc;
+}
+
+input[type="text"],
+input[type="search"],
+input[type="tel"],
+input[type="url"],
+input[type="email"],
+input[type="password"],
+input[type="datetime"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime-local"],
+input[type="number"],
+input[type="color"] {
+	appearance: none;
+	font-size: 16px;
+}
+
+textarea {
+	appearance: none;
+	font-size: 16px;
+}
+
+button {
+	cursor: pointer;
+}
+
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+a {
+	// color: $color-link;
+	// -webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+a,
+path {
+  transition: all 0.15s linear;
+}
+
+ul, ol {
+	padding-left: 40px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	vertical-align: top;
+}
+
+
+h1,
+.h1,
+.heading-size-1 {
+  font-weight: 800;
+  font-size: 3.6rem;
+  line-height: 1.138888889;
+}
+
+h2,
+.h2,
+.heading-size-2 {
+  font-size: 3.2rem;
+}
+
+h3,
+.h3,
+.heading-size-3 {
+  font-size: 2.8rem;
+}
+
+h4,
+.h4,
+.heading-size-4 {
+  font-size: 2.4rem;
+}
+
+h5,
+.h5,
+.heading-size-5 {
+  font-size: 2.1rem;
+}
+
+h6,
+.h6,
+.heading-size-6 {
+  font-size: 1.6rem;
+  letter-spacing: 0.03125em;
+}
+
+p {
+  line-height: 1.5;
+  margin: 0 0 1em 0;
+}
+
+em em,
+em i,
+i em,
+i i,
+cite em,
+cite i {
+  font-weight: bolder;
+}
+
+big {
+  font-size: 1.2em;
+}
+
+small {
+  font-size: 0.75em;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+ins {
+  text-decoration: underline;
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+abbr,
+acronym {
+  cursor: help;
+}
+
+address {
+  margin: 0 0 2rem 0;
+  line-height: 1.5;
+}
+
+hr {
+  margin: 4rem 0;
+  border-style: solid;
+  border-width: 0.1rem 0 0 0;
+  border-color: #dcd7ca;
+}

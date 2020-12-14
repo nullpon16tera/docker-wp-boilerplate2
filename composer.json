@@ -1,0 +1,17 @@
+{
+	"config": {
+		"process-timeout": 0,
+		"vendor-dir": "resource/Mirai/vendor"
+	},
+	"require": {
+		"inc2734/wp-breadcrumbs": "^1.0",
+		"inc2734/wp-ogp": "^2.0",
+		"inc2734/wp-seo": "^2.0",
+		"maximebf/debugbar": "^1.15"
+	},
+	"autoload": {
+		"psr-4": {
+			"Mirai\\": "Mirai/"
+		}
+	}
+}

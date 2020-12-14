@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+/**
+ * Default Setting
+ */
+@import "mixins/sgradient";
+@import "mixins/iphonex";
+
+// Variables Setting
+@import "app/variables";
+
+/**
+ * Extend
+ */
+// @import "editor/classic";
+
+// body#tinymce {
+// 	margin: 8px 15px;
+// 	box-sizing: border-box;
+// 	@extend %editor;
+// }
+
+body {
+  line-height: 1.6;
+  font-family: $font-family-sans-serif;
+  color: $color-text;
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+}
+
+ul,ol {
+  margin-left: 0;
+  padding-left: 1.5em;
+}
+
+pre {
+  max-width: 100%;
+  padding: 12px;
+  font-family: monospace;
+  font-size: 0.8rem;
+  overflow: auto;
+  background-color: #fcfcfc;
+  border: 1px solid #e0e0e0;
+}
+
+.editor-post-title__block {
+  .editor-post-title__input {
+    font-family: $font-family-sans-serif;
+    font-size: 24px;
+  }
+}
+
+
+.wp-block[data-type="core/freeform"] .mce-btn i {
+  font-family: dashicons !important;
+}
+
+
+
+.wp-block,
+.editor-post-title__block .editor-post-title__input {
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (min-width: $sm-min) {
+    max-width: 480px;
+  }
+  @media (min-width: $md-min) {
+    max-width: 520px;
+  }
+  @media (min-width: $lg-min) {
+    max-width: 750px;
+  }
+
+  &[data-align=full] {
+    max-width: 100% !important;
+  }
+
+  &[data-align=wide] {
+    max-width: 1100px !important;
+  }
+
+  &[data-align=left],
+  &[data-align=right] {
+  }
+}
+
+[data-type][data-align=left],
+[data-type][data-align=right] {
+  @media (max-width: $xs-max) {
+    max-width: 50%;
+  }
+
+  // + * {
+  //   &:after {
+  //     content: "";
+  //     position: relative;
+  //     display: table;
+  //     width: 100%;
+  //     height: 1px;
+  //     clear: both;
+  //   }
+  // }
+
+  // .wp-block-pullquote {
+  //   max-width: 290px;
+  //   margin: 0;
+  // }
+}
+[data-type][data-align=left] {
+  float: left;
+  margin: 5px 2rem 2rem 2rem;
+}
+[data-type][data-align=right] {
+  float: right;
+  margin: 5px 2rem 2rem 2rem;
+}
+
+.wp-block[data-align=left] > .wp-block-button {
+  text-align: left;
+}
+.wp-block[data-align=right] > .wp-block-button {
+  text-align: right;
+}
+
+.wp-block-latest-posts {
+  &.is-grid {
+    margin-left: 0;
+  }
+}
+
+

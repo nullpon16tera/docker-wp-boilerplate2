@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/**
+ * Default Setting
+ */
+@import "mixins/sgradient";
+@import "mixins/iphonex";
+
+// Variables Setting
+@import "app/variables";
+@import "editor/variables";
+
+@import "editor/color-palette";
+
+.editor-post-title__block {
+  .editor-post-title__input {
+    font-family: $font-family-sans-serif;
+  }
+}
+
+.editor-style-wrapper {
+  // font-family: $font-family-sans-serif;
+  > * {
+  }
+}

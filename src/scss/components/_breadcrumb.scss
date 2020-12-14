@@ -1,0 +1,14 @@
+.breadcrumbs {
+  padding: 8px 0;
+  &__list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  &__item {
+    padding: 0 8px;
+  }
+}

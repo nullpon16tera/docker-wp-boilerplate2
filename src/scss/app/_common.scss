@@ -1,0 +1,122 @@
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  word-wrap: normal !important;
+  word-break: normal;
+  border: 0;
+
+  &:focus {
+    clip: auto !important;
+    clip-path: none;
+    top: 5px;
+    right: 5px;
+    z-index: 100000;
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 15px 23px 14px;
+    font-weight: 700;
+    font-size: 0.875rem;
+    color: #21759b;
+    line-height: normal;
+    text-decoration: none;
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  }
+}
+
+.sp {
+	display: block;
+	@media (min-width: $md-min) {
+		display: none;
+	}
+}
+.pc {
+	display: none;
+
+	@media (min-width: $md-min) {
+		display: block;
+	}
+}
+
+a[href^="tel:"] {
+	pointer-events: none;
+
+	@media (pointer: fine) {
+		pointer-events: none;
+		color: currentColor;
+		text-decoration: none;
+	}
+
+	@media (pointer: coarse) {
+		pointer-events: auto;
+	}
+}
+
+.number {
+	font-family: 'Lato', sans-serif;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+
+.text-left {
+	text-align: left !important;
+}
+.text-center {
+	text-align: center !important;
+}
+.text-right {
+	text-align: right !important;
+}
+
+.iframe {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 0;
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+}
+
+.en {
+	font-family: $font-en;
+}
+
+
+.share-buttons {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	margin: 0 -5px;
+	padding: 0;
+	list-style: none;
+
+	li {
+		height: 100%;
+		padding: 5px;
+	}
+
+	.fb-like {
+		display: block !important;
+		> span {
+			display: block;
+			vertical-align: top !important;
+		}
+	}
+	iframe {
+		display: block;
+	}
+}

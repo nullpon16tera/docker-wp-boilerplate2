@@ -1,0 +1,290 @@
+/**
+ * Form
+ * フォームの各Input要素など
+ *
+ * @prefix form-
+ */
+input,
+select,
+textarea {
+	appearance: none;
+	max-width: 100%;
+	font-size: 16px;
+	outline: 0;
+	border-radius: 4px;
+	box-shadow: none;
+}
+
+input:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=color]):not([type=file]),
+textarea {
+	&::placeholder {
+		font-size: 14px;
+		color: #999;
+		transition: 235ms ease;
+	}
+	&:placeholder-shown {
+	}
+	&:not(:placeholder-shown) {
+		+ .form-error {
+			height: 0;
+			opacity: 0;
+			visibility: hidden;
+		}
+	}
+	&:focus {
+		&::placeholder {
+			color: #ccc;
+		}
+	}
+}
+
+input {
+	&:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=color]):not([type=file]) {
+		display: block;
+		height: 40px;
+		padding: 0 8px;
+		border: 1px solid $color-border;
+	}
+}
+
+input:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=color]):not([type=file]),
+textarea,
+select {
+	border: 1px solid $color-border;
+
+	&:focus {
+    border-color: $color-main;
+		box-shadow: 0 0 0 1px $color-main;
+		transition: 300ms ease;
+	}
+}
+
+textarea {
+	display: block;
+	min-height: calc(5em * 1.4 + 8px);
+	padding: 8px;
+	line-height: 1.4;
+	border-color: $color-border;
+}
+
+select {
+	position: relative;
+	display: inline-block;
+	width: auto;
+	height: 40px;
+	padding: 0 32px 0 8px;
+	color: currentColor;
+	background-repeat: no-repeat;
+	background-position: right .7em top 50%;
+	background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2210%22%20height%3D%226%22%20viewBox%3D%220%200%2010%206%22%3E%3Cpath%20d%3D%22M5%2C0l5%2C6H0Z%22%20transform%3D%22translate(10%206)%20rotate(180)%22%20fill%3D%22%23ccc%22%2F%3E%3C%2Fsvg%3E');
+	border-color: $color-border;
+
+	&::-ms-expand {
+		display: none;
+	}
+}
+
+input[type=range] {
+	display: block;
+	height: 1.4em;
+	margin: 0;
+	padding: 0 4px;
+	background-color: #e2e2e2;
+	border-radius: 15px;
+	border: 1px solid $color-border;
+	box-shadow: inset 0 0 0 6px #fff;
+
+	&:focus {
+		box-shadow: 0 0 0 1px $color-main, inset 0 0 0 6px #fff;
+		transition: 300ms ease;
+	}
+}
+
+input[type=color] {
+	height: 32px;
+	padding: 0 3px;
+	line-height: 1;
+	border-color: $color-border;
+	&:focus {
+		box-shadow: 0 0 0 1px $color-main;
+		transition: 300ms ease;
+	}
+}
+
+input[type=radio],
+input[type=checkbox] {
+	cursor: pointer;
+	width: 1em;
+	height: 1em;
+	margin: 0;
+	font-size: 20px;
+	color: $color-main;
+	line-height: 1;
+	background-color: #fff;
+	border: 1px solid $color-border;
+
+	&:focus {
+    border-color: $color-main;
+		box-shadow: 0 0 0 1px $color-main;
+		transition: 300ms ease;
+	}
+
+	&:checked {
+		background-color: $color-main;
+		background-image: linear-gradient(top right, #C5CE00 0%, #008F84 100%);
+		box-shadow: inset 0 0 0 .17em #fff;
+		transition: 300ms ease;
+	}
+}
+input[type=radio] {
+	border-radius: 1em;
+}
+
+.form-file {
+	label {
+		display: inline-block;
+		padding: 8px 18px;
+		line-height: 1.2;
+		font-size: 16px;
+		color: #fff;
+		text-align: center;
+		background-color: $color-main;
+		border: 1px solid darken($color-main, 5%);
+		border-radius: 30px;
+
+		&:focus {
+			box-shadow: 0 0 0 1px $color-main, inset 0 0 0 1px $color-main;
+			transition: 300ms ease;
+		}
+
+		&:before {
+			content: "ファイルを選択";
+			font-size: 14px;
+		}
+		input[type=file] {
+			display: none;
+		}
+	}
+}
+
+.form-radio,
+.form-checkbox {
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: -8px;
+
+	.horizontal-item {
+		margin-right: 1em;
+		margin-bottom: 8px;
+	}
+	label {
+		cursor: pointer;
+		input,
+		span {
+			user-select: none;
+			vertical-align: middle;
+		}
+
+		input {
+			margin-right: 4px;
+		}
+	}
+}
+
+.form-submit {
+	display: flex;
+	flex-direction: column-reverse;
+	margin-top: 2em;
+	text-align: center;
+
+	@media (min-width: $md-min) {
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+	}
+
+	button,
+	input[type=submit] {
+		min-width: 240px;
+		padding: 18px 16px;
+		font-size: 16px;
+		color: #fff;
+		background-color: $color-main;
+		border: 0;
+		// border: 1px solid darken($color-main, 5%);
+	}
+	button[value=back] {
+		max-width: 60px;
+		min-width: 30px;
+		margin-top: 16px;
+		padding: 8px 14px;
+		line-height: 1;
+		font-size: 14px;
+		color: #999;
+		background-color: #e2e2e2;
+		border: 1px solid darken(#e2e2e2, 6%);
+
+		@media (min-width: $md-min) {
+			margin-top: 0;
+			margin-right: 32px;
+		}
+	}
+}
+
+.form-group-column {
+	.form-group {
+		flex-direction: column;
+	}
+	.form-label {
+		width: auto;
+	}
+	.form-field {
+		width: auto;
+		padding-left: 0;
+	}
+}
+
+.form-group {
+	display: flex;
+	margin-bottom: 2.4em;
+
+	@media (max-width: $sm-max) {
+		flex-direction: column;
+	}
+}
+
+.form-label {
+	user-select: none;
+	margin-bottom: .7em;
+	font-weight: bold;
+	font-size: 16px;
+
+	@media (min-width: $md-min) {
+		width: 30%;
+	}
+}
+.form-field {
+	position: relative;
+	@media (min-width: $md-min) {
+		width: 70%;
+		padding-left: 2em;
+	}
+}
+.form-error {
+	pointer-events: none;
+	user-select: none;
+	transition: 235ms ease;
+
+	.error {
+		display: inline-block;
+		font-weight: bold;
+		font-size: 14px;
+		color: #C11414;
+	}
+}
+
+.mw_wp_form_confirm {
+	.required {
+		display: none;
+	}
+}

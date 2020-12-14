@@ -1,0 +1,4411 @@
+# Translation of Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-31 10:56:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Page Builder Gutenberg Blocks – CoBlocks - Stable (latest release)\n"
+
+#: dist/coblocks.js:58
+msgid "layout"
+msgstr "レイアウト"
+
+#: dist/coblocks.js:58
+msgid "voice over"
+msgstr "ボイスオーバー"
+
+#: dist/coblocks.js:58
+msgid "Team"
+msgstr "チーム"
+
+#: dist/coblocks.js:58
+msgid "sound"
+msgstr "音"
+
+#: dist/coblocks.js:58
+msgid "settings"
+msgstr "設定"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table settings"
+msgstr "価格表設定"
+
+#: dist/coblocks.js:58
+msgid "key"
+msgstr "キー"
+
+#: dist/coblocks.js:58
+msgid "Tools"
+msgstr "ツール"
+
+#: dist/coblocks.js:58
+msgid "find"
+msgstr "見つける"
+
+#: dist/coblocks.js:58
+msgid "Blur"
+msgstr "ぼかし"
+
+#: dist/coblocks.js:58
+msgid "time machine"
+msgstr "タイムマシーン"
+
+#: dist/coblocks.js:58
+msgid "schedule"
+msgstr "スケジュール"
+
+#: dist/coblocks.js:58
+msgid "pages"
+msgstr "ページ"
+
+#: dist/coblocks.js:58
+msgid "Microphone"
+msgstr "マイク"
+
+#: dist/coblocks.js:58
+msgid "hour"
+msgstr "時間"
+
+#: dist/coblocks.js:58
+msgid "Basic"
+msgstr "基本"
+
+#: dist/coblocks.js:58
+msgid "Pro"
+msgstr "プロ版"
+
+#: dist/coblocks.js:58
+msgid "Outline"
+msgstr "アウトライン"
+
+#: dist/coblocks.js:58
+msgid "A button for submitting form data."
+msgstr "フォームデータを送信するためのボタン。"
+
+#: dist/coblocks.js:58
+msgid "Add Twitter share button"
+msgstr "Twitter シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Tumblr share button"
+msgstr "Tumblr シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Reddit share button"
+msgstr "Reddit シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Pinterest share button"
+msgstr "Pinterest シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Linkedin share button"
+msgstr "LinkedIn シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Google share button"
+msgstr "Google シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Facebook share button"
+msgstr "Facebook シェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Email share button"
+msgstr "メールでシェアボタンを追加"
+
+#: dist/coblocks.js:58
+msgid "Profiles"
+msgstr "プロフィール"
+
+#: dist/coblocks.js:58
+msgid "Display buttons"
+msgstr "表示ボタン"
+
+#: dist/coblocks.js:58
+msgid "Display button"
+msgstr "表示ボタン"
+
+#: dist/coblocks.js:58
+msgid "Four columns; equal split"
+msgstr "4カラム、等分"
+
+#: dist/coblocks.js:58
+msgid "Three columns; equal split"
+msgstr "3カラム、等分"
+
+#: dist/coblocks.js:58
+msgid "Two columns; equal split"
+msgstr "2カラム、等分"
+
+#: dist/coblocks.js:58
+msgid "Two columns; two thirds, one third split"
+msgstr "2カラム、2:1"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an external feed"
+msgstr "外部フィードを取得"
+
+#: dist/coblocks.js:58
+msgid "Add Google API key…"
+msgstr "Google API キーを追加…"
+
+#: dist/coblocks.js:58
+msgid "Google map"
+msgstr "Google マップ"
+
+#: dist/coblocks.js:58
+msgid "A text box for custom responses."
+msgstr "カスタム回答用のテキストボックス。"
+
+#: dist/coblocks.js:58
+msgid "Button color"
+msgstr "ボタンの色"
+
+#: dist/coblocks.js:58
+msgid "Gluten free"
+msgstr "グルテンフリー"
+
+#: dist/coblocks.js:58
+msgid "Highlight settings"
+msgstr "強調表示設定"
+
+#: dist/coblocks.js:58
+msgid "Calendar URL"
+msgstr "カレンダー URL"
+
+#: dist/coblocks.js:58
+msgid "Vintage filter"
+msgstr "ヴィンテージフィルター"
+
+#: dist/coblocks.js:58
+msgid "Add background image"
+msgstr "背景画像を追加"
+
+#: dist/coblocks.js:58
+msgid "Edit background image"
+msgstr "背景画像を編集"
+
+#: dist/coblocks.js:58
+msgid "Display as open"
+msgstr "開いて表示"
+
+#: dist/coblocks.js:58
+msgid "Replace Image"
+msgstr "画像を置換"
+
+#: dist/coblocks.js:58
+msgid "Cloud"
+msgstr "クラウド"
+
+#: dist/coblocks.js:58
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: dist/coblocks.js:58
+msgid "Menu"
+msgstr "メニュー"
+
+#: dist/coblocks.js:58
+msgid "Spa"
+msgstr "スパ"
+
+#: dist/coblocks.js:58
+msgid "Cast"
+msgstr "キャスト"
+
+#: dist/coblocks.js:58
+msgid "Explore"
+msgstr "探索"
+
+#: dist/coblocks.js:58
+msgid "Face"
+msgstr "顔"
+
+#: dist/coblocks.js:58
+msgid "Format Shapes"
+msgstr "フォーマット形状"
+
+#: dist/coblocks.js:58
+msgid "Group Add"
+msgstr "グループ追加"
+
+#: dist/coblocks.js:58
+msgid "Live TV"
+msgstr "ライブ TV"
+
+#: dist/coblocks.js:58
+msgid "Lock Open"
+msgstr "ロック解除"
+
+#: dist/coblocks.js:58
+msgid "Merge"
+msgstr "統合"
+
+#: dist/coblocks.js:58
+msgid "Offline Bolt"
+msgstr "オフラインボルト"
+
+#: dist/coblocks.js:58
+msgid "arrows"
+msgstr "矢印"
+
+#: dist/coblocks.js:58
+msgid "compass"
+msgstr "コンパス"
+
+#: dist/coblocks.js:58
+msgid "games"
+msgstr "ゲーム"
+
+#: dist/coblocks.js:58
+msgid "group"
+msgstr "グループ"
+
+#: dist/coblocks.js:58
+msgid "handicapped"
+msgstr "障害"
+
+#: dist/coblocks.js:58
+msgid "https"
+msgstr "https"
+
+#: dist/coblocks.js:58
+msgid "new"
+msgstr "新規"
+
+#: dist/coblocks.js:58
+msgid "open"
+msgstr "オープン"
+
+#: dist/coblocks.js:58
+msgid "Shield"
+msgstr "盾"
+
+#: dist/coblocks.js:58
+msgid "television"
+msgstr "テレビ"
+
+#: dist/coblocks.js:58
+msgid "Ticket"
+msgstr "チケット"
+
+#: dist/coblocks.js:58
+msgid "tv"
+msgstr "テレビ"
+
+#: dist/coblocks.js:58
+msgid "user"
+msgstr "ユーザー"
+
+#: dist/coblocks.js:58
+msgid "video games"
+msgstr "ビデオゲーム"
+
+#: dist/coblocks.js:58
+msgid "voice"
+msgstr "音声"
+
+#: dist/coblocks.js:58
+msgid "weather"
+msgstr "天気"
+
+#: dist/coblocks.js:58
+msgid "wheelchair"
+msgstr "車椅子"
+
+#: dist/coblocks.js:58
+msgid "Devices Alternate"
+msgstr "端末代替"
+
+#: dist/coblocks.js:58
+msgid "Swap Horizontal"
+msgstr "水平方向に切り替え"
+
+#: dist/coblocks.js:58
+msgid "Swap Vertical"
+msgstr "垂直方向に切り替え"
+
+#: dist/coblocks.js:58
+msgid "Accessible"
+msgstr "アクセシブル"
+
+#: dist/coblocks.js:58
+msgid "Grayscale"
+msgstr "グレースケール"
+
+#: dist/coblocks.js:58
+msgid "Change heading level"
+msgstr "見出しレベルを変更"
+
+#: dist/coblocks.js:58
+msgid "Editor settings"
+msgstr "エディター設定"
+
+#: dist/coblocks.js:58
+msgid "General"
+msgstr "一般"
+
+#: dist/coblocks.js:58
+msgid "16:9"
+msgstr "16:9"
+
+#: dist/coblocks.js:58
+msgid "16:9 Aspect ratio"
+msgstr "16:9アスペクト比"
+
+#: dist/coblocks.js:58
+msgid "4:3"
+msgstr "4:3"
+
+#: dist/coblocks.js:58
+msgid "4:3 Aspect ratio"
+msgstr "4:3アスペクト比"
+
+#: dist/coblocks.js:58
+msgid "Typography controls"
+msgstr "タイポグラフィ制御"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail style"
+msgstr "サムネイルスタイル"
+
+#: dist/coblocks.js:58
+msgid "Custom color pickers"
+msgstr "カスタムカラーピッカー"
+
+#: dist/coblocks.js:58
+msgid "Gradient styles"
+msgstr "グラデーションスタイル"
+
+#: dist/coblocks.js:58
+msgid "Color settings"
+msgstr "色設定"
+
+#: dist/coblocks.js:58
+msgid "monitor"
+msgstr "モニター"
+
+#: dist/coblocks.js:58
+msgid "date"
+msgstr "デート中"
+
+#: dist/coblocks.js:58
+msgid "1 month"
+msgstr "1ヶ月"
+
+#: dist/coblocks.js:58
+msgid "1 week"
+msgstr "1週間"
+
+#: dist/coblocks.js:58
+msgid "2 weeks"
+msgstr "2週間"
+
+#: dist/coblocks.js:58
+msgid "Add event"
+msgstr "イベントを追加"
+
+#: dist/coblocks.js:58
+msgid "Clear Media"
+msgstr "メディアをクリア"
+
+#: dist/coblocks.js:58
+msgid "Day…"
+msgstr "日…"
+
+#: dist/coblocks.js:58
+msgid "Edit calendar URL"
+msgstr "カレンダー URL を編集"
+
+#: dist/coblocks.js:58
+msgid "Events per page"
+msgstr "1ページあたりのイベント"
+
+#: dist/coblocks.js:58
+msgid "Events settings"
+msgstr "イベント設定"
+
+#: dist/coblocks.js:58
+msgid "Fetch all"
+msgstr "すべて取得"
+
+#: dist/coblocks.js:58
+msgid "Link a calendar"
+msgstr "カレンダーをリンク"
+
+#: dist/coblocks.js:58
+msgid "Location…"
+msgstr "場所…"
+
+#: dist/coblocks.js:58
+msgid "Month…"
+msgstr "月…"
+
+#: dist/coblocks.js:58
+msgid "Time…"
+msgstr "時間…"
+
+#: dist/coblocks.js:58
+msgid "Write event description…"
+msgstr "イベント説明を入力…"
+
+#: dist/coblocks.js:58
+msgid "Write event title…"
+msgstr "イベント名を入力…"
+
+#: dist/coblocks.js:58
+msgid "Year…"
+msgstr "年…"
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Event Item"
+msgstr "イベント項目"
+
+#: dist/coblocks.js:58
+msgctxt "block name"
+msgid "Events"
+msgstr "イベント"
+
+#: dist/coblocks.js:58
+msgid "Select a variation to start with."
+msgstr "開始時のパターンを選択します。"
+
+#: dist/coblocks.js:58
+msgid "Enter URL here…"
+msgstr "URL をここに入力…"
+
+#: dist/coblocks.js:58
+msgid "location"
+msgstr "場所"
+
+#: dist/coblocks.js:58
+msgid "software"
+msgstr "ソフトウェア"
+
+#: dist/coblocks.js:58
+msgid "upload"
+msgstr "アップロード"
+
+#: dist/coblocks.js:58
+msgid "improve"
+msgstr "改善"
+
+#: dist/coblocks.js:58
+msgid "trendy"
+msgstr "トレンディ"
+
+#: dist/coblocks.js:58
+msgid "trending"
+msgstr "トレンド"
+
+#: dist/coblocks.js:58
+msgid "hot"
+msgstr "ホット"
+
+#: dist/coblocks.js:58
+msgid "college"
+msgstr "大学"
+
+#: dist/coblocks.js:58
+msgid "diploma"
+msgstr "学歴"
+
+#: dist/coblocks.js:58
+msgid "degree"
+msgstr "学位"
+
+#: dist/coblocks.js:58
+msgid "graduation"
+msgstr "卒業"
+
+#: dist/coblocks.js:58
+msgid "graduate"
+msgstr "大学院"
+
+#: dist/coblocks.js:58
+msgid "education"
+msgstr "教育"
+
+#: dist/coblocks.js:58
+msgid "season"
+msgstr "季節"
+
+#: dist/coblocks.js:58
+msgid "box"
+msgstr "ボックス"
+
+#: dist/coblocks.js:58
+msgid "boxes"
+msgstr "ボックス"
+
+#: dist/coblocks.js:58
+msgid "square"
+msgstr "四角形"
+
+#: dist/coblocks.js:58
+msgid "widgets"
+msgstr "ウィジェット"
+
+#: dist/coblocks.js:58
+msgid "cash"
+msgstr "現金"
+
+#: dist/coblocks.js:58
+msgid "checkout"
+msgstr "購入"
+
+#: dist/coblocks.js:58
+msgid "money"
+msgstr "金"
+
+#: dist/coblocks.js:58
+msgid "plugin"
+msgstr "プラグイン"
+
+#: dist/coblocks.js:58
+msgid "puzzle"
+msgstr "パズル"
+
+#: dist/coblocks.js:58
+msgid "team"
+msgstr "チーム"
+
+#: dist/coblocks.js:58
+msgid "together"
+msgstr "連携"
+
+#: dist/coblocks.js:58
+msgid "widget"
+msgstr "ウィジェット"
+
+#: dist/coblocks.js:58
+msgid "bio"
+msgstr "生体"
+
+#: dist/coblocks.js:58
+msgid "biometric"
+msgstr "生体認証"
+
+#: dist/coblocks.js:58
+msgid "defense"
+msgstr "防御"
+
+#: dist/coblocks.js:58
+msgid "safe"
+msgstr "安全"
+
+#: dist/coblocks.js:58
+msgid "secure"
+msgstr "保護"
+
+#: dist/coblocks.js:58
+msgid "security"
+msgstr "セキュリティ"
+
+#: dist/coblocks.js:58
+msgid "language"
+msgstr "言語"
+
+#: dist/coblocks.js:58
+msgid "speech"
+msgstr "スピーチ"
+
+#: dist/coblocks.js:58
+msgid "world"
+msgstr "世界"
+
+#: dist/coblocks.js:58
+msgid "badge"
+msgstr "バッジ"
+
+#: dist/coblocks.js:58
+msgid "microphone"
+msgstr "マイク"
+
+#: dist/coblocks.js:58
+msgid "music"
+msgstr "音楽"
+
+#: dist/coblocks.js:58
+msgid "song"
+msgstr "曲"
+
+#: dist/coblocks.js:58
+msgid "artist"
+msgstr "アーティスト"
+
+#: dist/coblocks.js:58
+msgid "camera"
+msgstr "カメラ"
+
+#: dist/coblocks.js:58
+msgid "flower"
+msgstr "花"
+
+#: dist/coblocks.js:58
+msgid "photography"
+msgstr "写真撮影"
+
+#: dist/coblocks.js:58
+msgid "winter"
+msgstr "冬"
+
+#: dist/coblocks.js:58
+msgid "frozen"
+msgstr "凍った"
+
+#: dist/coblocks.js:58
+msgid "ice"
+msgstr "氷"
+
+#: dist/coblocks.js:58
+msgid "cold"
+msgstr "寒い"
+
+#: dist/coblocks.js:58
+msgid "ship"
+msgstr "配送"
+
+#: dist/coblocks.js:58
+msgid "cart"
+msgstr "カート"
+
+#: dist/coblocks.js:58
+msgid "engineer"
+msgstr "エンジニア"
+
+#: dist/coblocks.js:58
+msgid "develop"
+msgstr "開発"
+
+#: dist/coblocks.js:58
+msgid "ecommerce"
+msgstr "eコマース"
+
+#: dist/coblocks.js:58
+msgid "commerce"
+msgstr "コマース"
+
+#: dist/coblocks.js:58
+msgid "shop"
+msgstr "ショップ"
+
+#: dist/coblocks.js:58
+msgid "gardening"
+msgstr "ガーデニング"
+
+#: dist/coblocks.js:58
+msgid "nice"
+msgstr "いい"
+
+#: dist/coblocks.js:58
+msgid "smell"
+msgstr "匂い"
+
+#: dist/coblocks.js:58
+msgid "scent"
+msgstr "香り"
+
+#: dist/coblocks.js:58
+msgid "petal"
+msgstr "花びら"
+
+#: dist/coblocks.js:58
+msgid "celebration"
+msgstr "お祝い"
+
+#: dist/coblocks.js:58
+msgid "party"
+msgstr "パーティー"
+
+#: dist/coblocks.js:58
+msgid "chair"
+msgstr "いす"
+
+#: dist/coblocks.js:58
+msgid "relax"
+msgstr "リラックス"
+
+#: dist/coblocks.js:58
+msgid "chill"
+msgstr "冷たい"
+
+#: dist/coblocks.js:58
+msgid "weekend"
+msgstr "週末"
+
+#: dist/coblocks.js:58
+msgid "taste"
+msgstr "好み"
+
+#: dist/coblocks.js:58
+msgid "spoon"
+msgstr "スプーン"
+
+#: dist/coblocks.js:58
+msgid "fork"
+msgstr "フォーク"
+
+#: dist/coblocks.js:58
+msgid "drink"
+msgstr "飲料"
+
+#: dist/coblocks.js:58
+msgid "food"
+msgstr "フード"
+
+#: dist/coblocks.js:58
+msgid "skyscraper"
+msgstr "高層ビル"
+
+#: dist/coblocks.js:58
+msgid "town"
+msgstr "街"
+
+#: dist/coblocks.js:58
+msgid "building"
+msgstr "ビル"
+
+#: dist/coblocks.js:58
+msgid "corporation"
+msgstr "会社"
+
+#: dist/coblocks.js:58
+msgid "business"
+msgstr "ビジネス"
+
+#: dist/coblocks.js:58
+msgid "earth"
+msgstr "地球"
+
+#: dist/coblocks.js:58
+msgid "global"
+msgstr "グローバル"
+
+#: dist/coblocks.js:58
+msgid "public"
+msgstr "公"
+
+#: dist/coblocks.js:58
+msgid "summer"
+msgstr "夏"
+
+#: dist/coblocks.js:58
+msgid "water"
+msgstr "水"
+
+#: dist/coblocks.js:58
+msgid "ocean"
+msgstr "海"
+
+#: dist/coblocks.js:58
+msgid "outside"
+msgstr "外"
+
+#: dist/coblocks.js:58
+msgid "outdoors"
+msgstr "アウトドア"
+
+#: dist/coblocks.js:58
+msgid "minimal"
+msgstr "最小"
+
+#: dist/coblocks.js:58
+msgid "landscape"
+msgstr "景色"
+
+#: dist/coblocks.js:58
+msgid "hills"
+msgstr "丘"
+
+#: dist/coblocks.js:58
+msgid "checkbox"
+msgstr "チェックボックス"
+
+#: dist/coblocks.js:58
+msgid "check"
+msgstr "チェック"
+
+#: dist/coblocks.js:58
+msgid "map"
+msgstr "マップ"
+
+#: dist/coblocks.js:58
+msgid "radio"
+msgstr "ラジオ"
+
+#: dist/coblocks.js:58
+msgid "deliver"
+msgstr "配達"
+
+#: dist/coblocks.js:58
+msgid "send"
+msgstr "送信"
+
+#: dist/coblocks.js:58
+msgid "comment"
+msgstr "コメント"
+
+#: dist/coblocks.js:58
+msgid "respond"
+msgstr "返答"
+
+#: dist/coblocks.js:58
+msgid "reply"
+msgstr "返信"
+
+#: dist/coblocks.js:58
+msgid "letter"
+msgstr "手紙"
+
+#: dist/coblocks.js:58
+msgid "read"
+msgstr "読む"
+
+#: dist/coblocks.js:58
+msgid "hub"
+msgstr "ハブ"
+
+#: dist/coblocks.js:58
+msgid "connect"
+msgstr "接続"
+
+#: dist/coblocks.js:58
+msgid "desk"
+msgstr "デスク"
+
+#: dist/coblocks.js:58
+msgid "like"
+msgstr "いいね"
+
+#: dist/coblocks.js:58
+msgid "favorite"
+msgstr "お気に入り"
+
+#: dist/coblocks.js:58
+msgid "vote"
+msgstr "投票"
+
+#: dist/coblocks.js:58
+msgid "rate"
+msgstr "評価"
+
+#: dist/coblocks.js:58
+msgid "kiss"
+msgstr "キス"
+
+#: dist/coblocks.js:58
+msgid "valentine"
+msgstr "バレンタイン"
+
+#: dist/coblocks.js:58
+msgid "shape"
+msgstr "形"
+
+#: dist/coblocks.js:58
+msgid "love"
+msgstr "愛"
+
+#: dist/coblocks.js:58
+msgid "typography"
+msgstr "タイポグラフィー"
+
+#: dist/coblocks.js:58
+msgid "marker"
+msgstr "マーカー"
+
+#: dist/coblocks.js:58
+msgid "pencil"
+msgstr "鉛筆"
+
+#: dist/coblocks.js:58
+msgid "font"
+msgstr "フォント"
+
+#: dist/coblocks.js:58
+msgid "type"
+msgstr "種類"
+
+#: dist/coblocks.js:58
+msgid "art"
+msgstr "アート"
+
+#: dist/coblocks.js:58
+msgid "doodle"
+msgstr "落書き"
+
+#: dist/coblocks.js:58
+msgid "drawing"
+msgstr "描画"
+
+#: dist/coblocks.js:58
+msgid "greek"
+msgstr "ギリシア語"
+
+#: dist/coblocks.js:58
+msgid "build"
+msgstr "ビルド"
+
+#: dist/coblocks.js:58
+msgid "creative"
+msgstr "クリエイティブ"
+
+#: dist/coblocks.js:58
+msgid "design"
+msgstr "デザイン"
+
+#: dist/coblocks.js:58
+msgid "add"
+msgstr "追加"
+
+#: dist/coblocks.js:58
+msgid "podcast"
+msgstr "ポッドキャスト"
+
+#: dist/coblocks.js:58
+msgid "collection"
+msgstr "コレクション"
+
+#: dist/coblocks.js:58
+msgid "photo"
+msgstr "写真"
+
+#: dist/coblocks.js:58
+msgid "film"
+msgstr "フィルム"
+
+#: dist/coblocks.js:58
+msgid "aperture"
+msgstr "絞り"
+
+#: dist/coblocks.js:58
+msgid "director"
+msgstr "ディレクター"
+
+#: dist/coblocks.js:58
+msgid "photographer"
+msgstr "フォトグラファー"
+
+#: dist/coblocks.js:58
+msgid "producer"
+msgstr "プロデューサー"
+
+#: dist/coblocks.js:58
+msgid "videography"
+msgstr "映像撮影"
+
+#: dist/coblocks.js:58
+msgid "colors"
+msgstr "色"
+
+#: dist/coblocks.js:58
+msgid "paint"
+msgstr "ペイント"
+
+#: dist/coblocks.js:58
+msgid "joy"
+msgstr "喜び"
+
+#: dist/coblocks.js:58
+msgid "fun"
+msgstr "楽しみ"
+
+#: dist/coblocks.js:58
+msgid "smile"
+msgstr "笑顔"
+
+#: dist/coblocks.js:58
+msgid "emoticon"
+msgstr "顔文字"
+
+#: dist/coblocks.js:58
+msgid "emotion"
+msgstr "感情"
+
+#: dist/coblocks.js:58
+msgid "happy"
+msgstr "うれしい"
+
+#: dist/coblocks.js:58
+msgid "data"
+msgstr "データ"
+
+#: dist/coblocks.js:58
+msgid "dots"
+msgstr "散布"
+
+#: dist/coblocks.js:58
+msgid "graph"
+msgstr "図表"
+
+#: dist/coblocks.js:58
+msgid "chart"
+msgstr "グラフ"
+
+#: dist/coblocks.js:58
+msgid "pie"
+msgstr "円"
+
+#: dist/coblocks.js:58
+msgid "stats"
+msgstr "統計"
+
+#: dist/coblocks.js:58
+msgid "math"
+msgstr "数学"
+
+#: dist/coblocks.js:58
+msgid "round"
+msgstr "丸"
+
+#: dist/coblocks.js:58
+msgid "plus"
+msgstr "プラス"
+
+#: dist/coblocks.js:58
+msgid "insert"
+msgstr "挿入"
+
+#: dist/coblocks.js:58
+msgid "circle"
+msgstr "円形"
+
+#: dist/coblocks.js:58
+msgid "minus"
+msgstr "マイナス"
+
+#: dist/coblocks.js:58
+msgid "paintbrush"
+msgstr "ペイントブラシ"
+
+#: dist/coblocks.js:58
+msgid "palette"
+msgstr "パレット"
+
+#: dist/coblocks.js:58
+msgid "device"
+msgstr "端末"
+
+#: dist/coblocks.js:58
+msgid "computer"
+msgstr "コンピューター"
+
+#: dist/coblocks.js:58
+msgid "headphones"
+msgstr "ヘッドホン"
+
+#: dist/coblocks.js:58
+msgid "beats"
+msgstr "ビート"
+
+#: dist/coblocks.js:58
+msgid "block"
+msgstr "ブロック"
+
+#: dist/coblocks.js:58
+msgid "blocks"
+msgstr "ブロック"
+
+#: dist/coblocks.js:58
+msgid "ipad"
+msgstr "iPad"
+
+#: dist/coblocks.js:58
+msgid "mac"
+msgstr "mac"
+
+#: dist/coblocks.js:58
+msgid "surface"
+msgstr "表面"
+
+#: dist/coblocks.js:58
+msgid "waves"
+msgstr "波"
+
+#: dist/coblocks.js:58
+msgid "audio"
+msgstr "音声"
+
+#: dist/coblocks.js:58
+msgid "usb"
+msgstr "USB"
+
+#: dist/coblocks.js:58
+msgid "os"
+msgstr "OS"
+
+#: dist/coblocks.js:58
+msgid "Upload a media file or pick one from your media library"
+msgstr "メディアファイルをアップロードするかメディアライブラリから選択します"
+
+#: dist/coblocks.js:58
+msgid "Offset settings"
+msgstr "オフセット設定"
+
+#: dist/coblocks.js:58
+msgid "Display images in an offset brick pattern gallery."
+msgstr "オフセットのレンガ型ギャラリーで画像を表示します。"
+
+#: dist/coblocks.js:58
+msgid "Offset"
+msgstr "オフセット"
+
+#: dist/coblocks.js:58
+msgid "Plus one"
+msgstr "同伴者"
+
+#: dist/coblocks.js:58
+msgid "Will you be attending?"
+msgstr "出席しますか？"
+
+#: dist/coblocks.js:58
+msgid "Yes"
+msgstr "はい"
+
+#: dist/coblocks.js:58
+msgid "No"
+msgstr "いいえ"
+
+#: dist/coblocks.js:58
+msgid "Notes?"
+msgstr "メッセージ？"
+
+#: dist/coblocks.js:58
+msgid "RSVP"
+msgstr "返信依頼"
+
+#: dist/coblocks.js:58
+msgid "Appointment"
+msgstr "予約"
+
+#: dist/coblocks.js:58
+msgid "Time"
+msgstr "時間"
+
+#: dist/coblocks.js:58
+msgid "Morning"
+msgstr "午前"
+
+#: dist/coblocks.js:58
+msgid "Afternoon"
+msgstr "午後"
+
+#: dist/coblocks.js:58
+msgid "Special notes"
+msgstr "特記事項"
+
+#: dist/coblocks.js:58
+msgid "Book Appointment"
+msgstr "予約"
+
+#: dist/coblocks.js:58
+msgid "You may use the following tags in the subject field: "
+msgstr "件名欄に次のタグを使うことができます: "
+
+#: includes/class-coblocks-form.php:986 dist/coblocks.js:58
+msgid "name"
+msgstr "名前"
+
+#. translators: placeholder for email shortcode.
+#: includes/class-coblocks-form.php:51
+msgid "Form submission from [%1$s]"
+msgstr "[%1$s] からのフォーム送信"
+
+#: src/extensions/layout-selector/index.php:21 dist/coblocks.js:58
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: dist/coblocks.js:58
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: dist/coblocks.js:58
+msgid "Write gallery caption…"
+msgstr "ギャラリーのキャプションを入力…"
+
+#: dist/coblocks.js:58
+msgid "Media area"
+msgstr "メディアエリア"
+
+#: dist/coblocks.js:58
+msgid "Add title…"
+msgstr "タイトルを追加..."
+
+#: dist/coblocks.js:58
+msgid "Menu title…"
+msgstr "メニュータイトル..."
+
+#: dist/coblocks.js:58
+msgid "Add button…"
+msgstr "ボタンを追加..."
+
+#: dist/coblocks.js:58
+msgid "Write text…"
+msgstr "テキストを入力..."
+
+#: dist/coblocks.js:58
+msgid "Write title…"
+msgstr "タイトルを入力..."
+
+#: dist/coblocks.js:58
+msgid "Add content…"
+msgstr "コンテンツを追加..."
+
+#: dist/coblocks.js:58
+msgid "Add heading…"
+msgstr "見出しを追加..."
+
+#: dist/coblocks.js:58
+msgid "google"
+msgstr "google"
+
+#: dist/coblocks.js:58
+msgid "address"
+msgstr "住所"
+
+#: dist/coblocks.js:58
+msgid "Aubergine"
+msgstr "Aubergine"
+
+#: dist/coblocks.js:58
+msgid "Add accordion item"
+msgstr "アコーディオン項目を追加"
+
+#: dist/coblocks.js:58
+msgid "faq"
+msgstr "faq"
+
+#: dist/coblocks.js:58
+msgid "Media Card"
+msgstr "メディアカード"
+
+#: dist/coblocks.js:58
+msgid "Retro"
+msgstr "レトロ"
+
+#: dist/coblocks.js:58
+msgid "Silver"
+msgstr "シルバー"
+
+#: dist/coblocks.js:58
+msgid "Standard"
+msgstr "標準"
+
+#: dist/coblocks.js:58
+msgid "Lowercase"
+msgstr "小文字"
+
+#: dist/coblocks.js:58
+msgid "Repeat vertically"
+msgstr "縦に繰り返し"
+
+#: dist/coblocks.js:58
+msgid "Repeat horizontally"
+msgstr "横に繰り返し"
+
+#: dist/coblocks.js:58
+msgid "No repeat"
+msgstr "繰り返さない"
+
+#: dist/coblocks.js:58
+msgid "Column"
+msgstr "カラム"
+
+#: dist/coblocks.js:58
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: dist/coblocks.js:58
+msgid "Cover"
+msgstr "カバー"
+
+#: includes/class-coblocks-form.php:367 dist/coblocks.js:58
+msgid "Text"
+msgstr "テキスト"
+
+#: dist/coblocks.js:58
+msgid "Mask"
+msgstr "マスク"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table"
+msgstr "価格表"
+
+#: dist/coblocks.js:58
+msgid "Pricing Table Item"
+msgstr "価格表の項目"
+
+#: dist/coblocks.js:58
+msgid "paragraph"
+msgstr "段落"
+
+#: dist/coblocks.js:58
+msgid "text"
+msgstr "テキスト"
+
+#: dist/coblocks.js:58
+msgid "Highlight"
+msgstr "ハイライト"
+
+#: dist/coblocks.js:58
+msgid "code"
+msgstr "コード"
+
+#: dist/coblocks.js:58
+msgid "Gist"
+msgstr "Gist"
+
+#: dist/coblocks.js:58
+msgid "comparison"
+msgstr "比較"
+
+#: dist/coblocks.js:58
+msgid "landing"
+msgstr "着陸"
+
+#: dist/coblocks.js:58
+msgid "image"
+msgstr "画像"
+
+#: dist/coblocks.js:58
+msgid "Gif"
+msgstr "GIF"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth"
+msgstr "全幅"
+
+#: dist/coblocks.js:58
+msgid "twitter"
+msgstr "twitter"
+
+#: dist/coblocks.js:58
+msgid "share"
+msgstr "シェアする"
+
+#: dist/coblocks.js:58
+msgid "Click to Tweet"
+msgstr "クリックしてツイート"
+
+#: dist/coblocks.js:58
+msgid "profile"
+msgstr "プロフィール"
+
+#: dist/coblocks.js:58
+msgid "Author"
+msgstr "投稿者"
+
+#: dist/coblocks.js:58
+msgid "Alert"
+msgstr "アラート"
+
+#: dist/coblocks.js:58
+msgid "message"
+msgstr "メッセージ"
+
+#: dist/coblocks.js:58
+msgid "notice"
+msgstr "注意"
+
+#: dist/coblocks.js:58
+msgid "Info"
+msgstr "情報"
+
+#: dist/coblocks.js:58
+msgid "Error"
+msgstr "エラー"
+
+#: dist/coblocks.js:58
+msgid "Warning"
+msgstr "警告"
+
+#: dist/coblocks.js:58
+msgid "Accordion"
+msgstr "アコーディオン"
+
+#: dist/coblocks.js:58
+msgid "Accordion Item"
+msgstr "アコーディオン項目"
+
+#: dist/coblocks.js:58
+msgid "tabs"
+msgstr "タブ"
+
+#: dist/coblocks.js:58
+msgid "animated"
+msgstr "アニメーション表示"
+
+#: dist/coblocks.js:58
+msgid "separator"
+msgstr "区切り"
+
+#: dist/coblocks.js:58
+msgid "biography"
+msgstr "人物紹介"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR"
+msgstr "動的 HR"
+
+#: dist/coblocks.js:58
+msgid "Dynamic HR settings"
+msgstr "動的 HR 設定"
+
+#: dist/coblocks.js:58
+msgid "video"
+msgstr "動画"
+
+#: dist/coblocks.js:58
+msgid "gallery"
+msgstr "ギャラリー"
+
+#: dist/coblocks.js:58
+msgid "Write description…"
+msgstr "説明を入力..."
+
+#: dist/coblocks.js:58
+msgid "slider"
+msgstr "スライダー"
+
+#: dist/coblocks.js:58
+msgid "Write accordion item title…"
+msgstr "アコーディオン項目のタイトルを入力..."
+
+#: dist/coblocks.js:58
+msgid "Author link…"
+msgstr "作成者リンク..."
+
+#: dist/coblocks.js:58
+msgid "Drop to upload as avatar"
+msgstr "アバターとしてアップロードするためにドロップ"
+
+#: dist/coblocks.js:58
+msgid "Jane Doe"
+msgstr "山田花子"
+
+#: dist/coblocks.js:58
+msgid "calendar"
+msgstr "カレンダー"
+
+#: dist/coblocks.js:58
+msgid "Add feature title…"
+msgstr "特集のタイトルを追加..."
+
+#: dist/coblocks.js:58
+msgid "Feature Title"
+msgstr "特集のタイトル"
+
+#: dist/coblocks.js:58
+msgid "Add feature content"
+msgstr "特集のコンテンツを追加"
+
+#: dist/coblocks.js:58
+msgid "This is a feature block that you can use to highlight features."
+msgstr "特集を強調するために使用する特集ブロックです。"
+
+#: dist/coblocks.js:58
+msgid "Grid"
+msgstr "グリッド"
+
+#: dist/coblocks.js:58
+msgid "List"
+msgstr "リスト"
+
+#: dist/coblocks.js:58
+msgid "A checkbox field with multiple options where multiple choices can be made."
+msgstr "複数のオプションから複数選べるチェックボックスのフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "option"
+msgstr "オプション"
+
+#: dist/coblocks.js:58
+msgid "day"
+msgstr "日"
+
+#: dist/coblocks.js:58
+msgid "month"
+msgstr "月"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an external blog feed as a carousel."
+msgstr "投稿または外部ブログフィードをカルーセルで表示します。"
+
+#: dist/coblocks.js:58
+msgid "(no title)"
+msgstr "(タイトルなし)"
+
+#: dist/coblocks.js:58
+msgid "RSS Feed"
+msgstr "RSS フィード"
+
+#: dist/coblocks.js:58
+msgid "latest"
+msgstr "最新"
+
+#: dist/coblocks.js:58
+msgid "blog"
+msgstr "ブログ"
+
+#: dist/coblocks.js:58
+msgid "posts"
+msgstr "投稿"
+
+#: dist/coblocks.js:58
+msgid "Display posts or an RSS feed as stacked or horizontal cards."
+msgstr "投稿または RSS フィードを、スタックカード、または水平に並べたカードで表示します。"
+
+#: dist/coblocks.js:58
+msgid "Posts"
+msgstr "投稿"
+
+#: dist/coblocks.js:58
+msgid "directions"
+msgstr "方向"
+
+#: dist/coblocks.js:58
+msgid "Secondary button…"
+msgstr "セカンダリボタン..."
+
+#: dist/coblocks.js:58
+msgid "Primary button…"
+msgstr "プライマリボタン..."
+
+#: dist/coblocks.js:58
+msgid "Add hero heading…"
+msgstr "ヒーロー見出しを追加..."
+
+#: dist/coblocks.js:58
+msgid "Edit %s URL"
+msgstr "%s URLを編集"
+
+#: dist/coblocks.js:58
+msgid "Return to %s"
+msgstr "%sに戻る"
+
+#: dist/coblocks.js:58
+msgid "year"
+msgstr "年"
+
+#: dist/coblocks.js:58
+msgid "Hidden Field settings"
+msgstr "非表示フィールド設定"
+
+#: dist/coblocks.js:58
+msgid "Field value"
+msgstr "フィールド値"
+
+#: dist/coblocks.js:58
+msgid "A hidden text field for collecting additional data."
+msgstr "追加データを収集するための非表示のテキストフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "input"
+msgstr "入力"
+
+#: dist/coblocks.js:58
+msgid "Add checkbox"
+msgstr "チェックボックスの追加"
+
+#: dist/coblocks.js:58
+msgid "first name"
+msgstr "名"
+
+#: dist/coblocks.js:58
+msgid "last name"
+msgstr "姓"
+
+#: dist/coblocks.js:58
+msgid "telephone"
+msgstr "電話"
+
+#: dist/coblocks.js:58
+msgid "cellular"
+msgstr "携帯電話"
+
+#: dist/coblocks.js:58
+msgid "cell"
+msgstr "セル"
+
+#: dist/coblocks.js:58
+msgid "hyperlink"
+msgstr "ハイパーリンク"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting a URL."
+msgstr "URL を収集するテキストフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "dropdown"
+msgstr "ドロップダウン"
+
+#: dist/coblocks.js:58
+msgid "message text"
+msgstr "メッセージテキスト"
+
+#: dist/coblocks.js:58
+msgid "mobile"
+msgstr "モバイル"
+
+#: dist/coblocks.js:58
+msgid "select"
+msgstr "選択"
+
+#: dist/coblocks.js:58
+msgid "choose"
+msgstr "選択"
+
+#: dist/coblocks.js:58
+msgid "Radio"
+msgstr "ラジオ"
+
+#: dist/coblocks.js:58
+msgid "Layered"
+msgstr "レイヤー"
+
+#: dist/coblocks.js:58
+msgid "Tiled"
+msgstr "タイル"
+
+#: dist/coblocks.js:58
+msgid "Collage"
+msgstr "コラージュ"
+
+#: dist/coblocks.js:21
+msgid "Image zoom"
+msgstr "画像ズーム"
+
+#: dist/coblocks.js:58
+msgid "Top Wave"
+msgstr "上部ウェーブ"
+
+#: dist/coblocks.js:58
+msgid "Bottom Wave"
+msgstr "下部ウェーブ"
+
+#: dist/coblocks.js:58
+msgid "lightbox"
+msgstr "ライトボックス"
+
+#: dist/coblocks.js:58
+msgid "seal"
+msgstr "シール"
+
+#: dist/coblocks.js:58
+msgid "awards"
+msgstr "受賞"
+
+#: dist/coblocks.js:58
+msgid "A dropdown field with multiple options where only one choice can be made."
+msgstr "複数のオプションから1つだけ選べるドロップダウンフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "testimonials"
+msgstr "推薦 / 証明"
+
+#: dist/coblocks.js:58
+msgid "Wavy"
+msgstr "波形"
+
+#: dist/coblocks.js:58
+msgid "Hills"
+msgstr "丘"
+
+#: dist/coblocks.js:58
+msgid "Angled"
+msgstr "傾斜"
+
+#: dist/coblocks.js:58
+msgid "Sloped"
+msgstr "丸みのある傾斜"
+
+#: dist/coblocks.js:58
+msgid "Rounded"
+msgstr "丸み"
+
+#: dist/coblocks.js:58
+msgid "Triangle"
+msgstr "三角"
+
+#: dist/coblocks.js:58
+msgid "Pointed"
+msgstr "三角のへこみ"
+
+#: dist/coblocks.js:58
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: dist/coblocks.js:58
+msgid "Features"
+msgstr "機能"
+
+#: dist/coblocks.js:58
+msgid "Form"
+msgstr "フォーム"
+
+#: dist/coblocks.js:58
+msgid "Service"
+msgstr "サービス"
+
+#: dist/coblocks.js:58
+msgid "Share"
+msgstr "シェア"
+
+#: dist/coblocks.js:58
+msgid "Social Profiles"
+msgstr "ソーシャルプロフィール"
+
+#: dist/coblocks.js:58
+msgid "Textarea"
+msgstr "テキストエリア"
+
+#: dist/coblocks.js:58
+msgid "links"
+msgstr "リンク"
+
+#: dist/coblocks.js:58
+msgid "photos"
+msgstr "写真"
+
+#: dist/coblocks.js:58
+msgid "Horizontal"
+msgstr "水平"
+
+#: dist/coblocks.js:58
+msgid "L"
+msgstr "L"
+
+#: dist/coblocks.js:58
+msgid "M"
+msgstr "M"
+
+#: dist/coblocks.js:58
+msgid "S"
+msgstr "S"
+
+#: dist/coblocks.js:58
+msgid "XL"
+msgstr "XL"
+
+#: dist/coblocks.js:58
+msgid "Map"
+msgstr "地図"
+
+#: dist/coblocks.js:58
+msgid "Dot"
+msgstr "点"
+
+#: dist/coblocks.js:58
+msgid "Night"
+msgstr "ナイト"
+
+#: dist/coblocks.js:58
+msgid "Icon & Text"
+msgstr "アイコン & テキスト"
+
+#: dist/coblocks.js:58
+msgid "Success"
+msgstr "成功"
+
+#: dist/coblocks.js:58
+msgid "Line"
+msgstr "ライン"
+
+#: dist/coblocks.js:58
+msgid "3D"
+msgstr "3D"
+
+#: dist/coblocks.js:58
+msgid "Buttons settings"
+msgstr "ボタン設定"
+
+#: dist/coblocks.js:58
+msgid "Circular"
+msgstr "円形状"
+
+#: dist/coblocks.js:58
+msgid "Hero"
+msgstr "ヒーロー"
+
+#: dist/coblocks.js:58
+msgid "Services"
+msgstr "サービス"
+
+#: dist/coblocks.js:58
+msgid "Shape Divider"
+msgstr "シェイプ区切り"
+
+#: dist/coblocks.js:58
+msgid "button"
+msgstr "ボタン"
+
+#: dist/coblocks.js:58
+msgid "clients"
+msgstr "クライアント"
+
+#: dist/coblocks.js:58
+msgid "columns"
+msgstr "カラム"
+
+#: dist/coblocks.js:58
+msgid "e-mail"
+msgstr "メールアドレス"
+
+#: includes/class-coblocks-form.php:998 dist/coblocks.js:58
+msgid "email"
+msgstr "メール"
+
+#: dist/coblocks.js:58
+msgid "layouts"
+msgstr "レイアウト"
+
+#: dist/coblocks.js:58
+msgid "link"
+msgstr "リンク"
+
+#: dist/coblocks.js:58
+msgid "mail"
+msgstr "メール"
+
+#: dist/coblocks.js:58
+msgid "menu"
+msgstr "メニュー"
+
+#: dist/coblocks.js:58
+msgid "multiline text"
+msgstr "複数行テキスト"
+
+#: dist/coblocks.js:58
+msgid "restaurant"
+msgstr "レストラン"
+
+#: dist/coblocks.js:58
+msgid "rows"
+msgstr "行"
+
+#: dist/coblocks.js:58
+msgid "social"
+msgstr "ソーシャル"
+
+#: dist/coblocks.js:58
+msgid "spacer"
+msgstr "スペーサー"
+
+#: dist/coblocks.js:58
+msgid "Contain"
+msgstr "含む"
+
+#: dist/coblocks.js:58
+msgid "Stack on mobile"
+msgstr "モバイルでは縦に並べる"
+
+#: dist/coblocks.js:21
+msgid "Horizontal pos."
+msgstr "横位置"
+
+#: dist/coblocks.js:58
+msgid "Food Item"
+msgstr "食品"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks"
+msgstr "食品と飲料"
+
+#: dist/coblocks.js:21
+msgid "Vertical pos."
+msgstr "縦位置"
+
+#: dist/coblocks.js:58
+msgid "Light"
+msgstr "ライト"
+
+#: dist/coblocks.js:58
+msgid "Dark"
+msgstr "ダークカラー"
+
+#: dist/coblocks.js:58
+msgid "Auto"
+msgstr "自動"
+
+#: dist/coblocks.js:58
+msgid "url"
+msgstr "URL"
+
+#: dist/coblocks.js:58
+msgid "rss"
+msgstr "RSS"
+
+#: dist/coblocks.js:58
+msgid "fax"
+msgstr "FAX"
+
+#: dist/coblocks.js:58
+msgid "cta"
+msgstr "CTA"
+
+#: dist/coblocks.js:58
+msgid "call to action"
+msgstr "CTA (行動喚起)"
+
+#: dist/coblocks.js:58
+msgid "icons"
+msgstr "アイコン"
+
+#: dist/coblocks.js:58
+msgid "Update"
+msgstr "更新"
+
+#: dist/coblocks.js:58
+msgid "Bold"
+msgstr "太字"
+
+#: dist/coblocks.js:58
+msgid "Normal"
+msgstr "通常"
+
+#: dist/coblocks.js:58
+msgid "Icon"
+msgstr "アイコン"
+
+#: dist/coblocks.js:58
+msgid "Display settings"
+msgstr "表示の設定"
+
+#: dist/coblocks.js:58
+msgid "Inline %s"
+msgstr "%sをインライン表示"
+
+#: dist/coblocks.js:58
+msgid "Displaying the %s inline."
+msgstr "%sをインラインで表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display the %s inline."
+msgstr "%sをインラインで表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Fire"
+msgstr "炎"
+
+#: dist/coblocks.js:58
+msgid "School"
+msgstr "学校"
+
+#: dist/coblocks.js:58
+msgid "Shipping"
+msgstr "配送"
+
+#: dist/coblocks.js:58
+msgid "Layers"
+msgstr "レイヤー"
+
+#: dist/coblocks.js:58
+msgid "Flare"
+msgstr "フレア"
+
+#: dist/coblocks.js:58
+msgid "Credit Card"
+msgstr "クレジットカード"
+
+#: dist/coblocks.js:58
+msgid "Extension"
+msgstr "拡張機能"
+
+#: dist/coblocks.js:58
+msgid "Fingerprint"
+msgstr "指紋"
+
+#: dist/coblocks.js:58
+msgid "Translate"
+msgstr "翻訳"
+
+#: dist/coblocks.js:58
+msgid "New"
+msgstr "新着"
+
+#: dist/coblocks.js:58
+msgid "Reply"
+msgstr "返信"
+
+#: dist/coblocks.js:58
+msgid "Send"
+msgstr "送信"
+
+#: dist/coblocks.js:58
+msgid "Blocks"
+msgstr "ブロック"
+
+#: dist/coblocks.js:58
+msgid "Marker"
+msgstr "マーカー"
+
+#: dist/coblocks.js:58
+msgid "Mountains"
+msgstr "山"
+
+#: dist/coblocks.js:58
+msgid "Globe"
+msgstr "地球"
+
+#: dist/coblocks.js:58
+msgid "Dining"
+msgstr "食事"
+
+#: dist/coblocks.js:58
+msgid "Couch"
+msgstr "カウチ"
+
+#: dist/coblocks.js:58
+msgid "Cake"
+msgstr "ケーキ"
+
+#: dist/coblocks.js:58
+msgid "Flower"
+msgstr "花"
+
+#: dist/coblocks.js:58
+msgid "Build"
+msgstr "ビルド"
+
+#: dist/coblocks.js:58
+msgid "Snowflake"
+msgstr "スノーフレーク"
+
+#: dist/coblocks.js:58
+msgid "Signal"
+msgstr "シグナル"
+
+#: dist/coblocks.js:58
+msgid "Filled"
+msgstr "フィル"
+
+#: dist/coblocks.js:58
+msgid "Waves"
+msgstr "波"
+
+#: dist/coblocks.js:58
+msgid "Outlined"
+msgstr "アウトライン"
+
+#: dist/coblocks.js:58
+msgid "City"
+msgstr "市区町村"
+
+#: dist/coblocks.js:58
+msgid "Devices"
+msgstr "端末"
+
+#: dist/coblocks.js:58
+msgid "Watch"
+msgstr "見る"
+
+#: dist/coblocks.js:58
+msgid "Keyboard"
+msgstr "キーボード"
+
+#: dist/coblocks.js:58
+msgid "Hub"
+msgstr "ハブ"
+
+#: dist/coblocks.js:58
+msgid "Voice"
+msgstr "ボイス"
+
+#: dist/coblocks.js:58
+msgid "Aperture"
+msgstr "絞り"
+
+#: dist/coblocks.js:58
+msgid "Camera"
+msgstr "カメラ"
+
+#: dist/coblocks.js:58
+msgid "Film"
+msgstr "フィルム"
+
+#: dist/coblocks.js:58
+msgid "Color Lens"
+msgstr "カラーレンズ"
+
+#: dist/coblocks.js:58
+msgid "Color Picker"
+msgstr "カラーピッカー"
+
+#: dist/coblocks.js:58
+msgid "Paint"
+msgstr "ペイント"
+
+#: dist/coblocks.js:58
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: dist/coblocks.js:58
+msgid "Scatter Plot"
+msgstr "散布図"
+
+#: dist/coblocks.js:58
+msgid "Poll"
+msgstr "投票"
+
+#: dist/coblocks.js:58
+msgid "Functions"
+msgstr "機能"
+
+#: dist/coblocks.js:58
+msgid "Emoticon"
+msgstr "顔文字"
+
+#: dist/coblocks.js:58
+msgid "Heart"
+msgstr "ハート"
+
+#: dist/coblocks.js:58
+msgid "Doodle"
+msgstr "落書き"
+
+#: dist/coblocks.js:58
+msgid "Pie Chart"
+msgstr "円グラフ"
+
+#: dist/coblocks.js:58
+msgid "Brush"
+msgstr "ブラシ"
+
+#: dist/coblocks.js:58
+msgid "Add Circle"
+msgstr "円プラス"
+
+#: dist/coblocks.js:58
+msgid "Minus Circle"
+msgstr "円マイナス"
+
+#: dist/coblocks.js:58
+msgid "Album"
+msgstr "アルバム"
+
+#: dist/coblocks.js:58
+msgid "Headset"
+msgstr "ヘッドセット"
+
+#: dist/coblocks.js:58
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: dist/coblocks.js:58
+msgid "Tablet"
+msgstr "タブレット"
+
+#: dist/coblocks.js:58
+msgid "Video"
+msgstr "動画"
+
+#: dist/coblocks.js:58
+msgid "Laptop"
+msgstr "ノートパソコン"
+
+#: dist/coblocks.js:58
+msgid "Star"
+msgstr "星"
+
+#: dist/coblocks.js:58
+msgid "Volume"
+msgstr "音量"
+
+#: dist/coblocks.js:58
+msgid "Audio"
+msgstr "音声"
+
+#: dist/coblocks.js:58
+msgid "Em"
+msgstr "Em"
+
+#: dist/coblocks.js:58
+msgid "Pixel"
+msgstr "ピクセル"
+
+#: dist/coblocks.js:58
+msgid "Percentage"
+msgstr "パーセント"
+
+#: includes/class-coblocks-form.php:540 includes/class-coblocks-form.php:589
+#: dist/coblocks.js:58
+msgid "Select"
+msgstr "選択"
+
+#: includes/class-coblocks-form.php:676 dist/coblocks.js:58
+msgid "Hidden"
+msgstr "非表示"
+
+#: includes/class-coblocks-form.php:642 dist/coblocks.js:58
+msgid "Website"
+msgstr "サイト"
+
+#: dist/coblocks.js:58
+msgid "Viewport width"
+msgstr "表示域の幅"
+
+#: dist/coblocks.js:58
+msgid "Viewport height"
+msgstr "表示域の高さ"
+
+#: dist/coblocks.js:58
+msgid "Vintage Filter"
+msgstr "ビンテージフィルター"
+
+#: dist/coblocks.js:58
+msgid "Grayscale filter"
+msgstr "グレースケールフィルター"
+
+#: dist/coblocks.js:58
+msgid "Sepia filter"
+msgstr "セピアフィルター"
+
+#: dist/coblocks.js:58
+msgid "Saturation filter"
+msgstr "明るくするフィルター"
+
+#: dist/coblocks.js:58
+msgid "Dim filter"
+msgstr "暗くするフィルター"
+
+#: dist/coblocks.js:58
+msgid "Original"
+msgstr "元のサイズ"
+
+#: class-coblocks.php:81 class-coblocks.php:93
+msgid "Something went wrong."
+msgstr "何かがうまくいかなかったようです。"
+
+#: dist/coblocks.js:58
+msgid "Street view"
+msgstr "ストリートビュー"
+
+#: dist/coblocks.js:58
+msgid "Marker size"
+msgstr "マーカーサイズ"
+
+#: dist/coblocks.js:58
+msgid "Map settings"
+msgstr "マップ設定"
+
+#: dist/coblocks.js:58
+msgid "Select map style"
+msgstr "マップのスタイルを選択"
+
+#: dist/coblocks.js:58
+msgid "Zoom Level"
+msgstr "ズームレベル"
+
+#: dist/coblocks.js:58
+msgid "Map type"
+msgstr "マップの種類"
+
+#: dist/coblocks.js:58
+msgid "Height for the map in pixels"
+msgstr "マップの高さ (ピクセル)"
+
+#: dist/coblocks.js:58
+msgid "Use URL"
+msgstr "URL を使用"
+
+#: dist/coblocks.js:58
+msgid "Popular"
+msgstr "人気"
+
+#: dist/coblocks.js:58
+msgid "Write option…"
+msgstr "オプションを入力..."
+
+#: dist/coblocks.js:58
+msgid "Remove Option"
+msgstr "オプションを削除"
+
+#: includes/class-coblocks-form.php:408 dist/coblocks.js:58
+msgid "Date"
+msgstr "日付"
+
+#: dist/coblocks.js:58
+msgid "A field for requesting date selections with a date picker."
+msgstr "日付を選択するための、日付ピッカーが付いたフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "A field for collecting a validated email address."
+msgstr "有効なメールアドレスを入力するためのフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "Add option"
+msgstr "オプションを追加"
+
+#: dist/coblocks.js:58
+msgid "A text field for collecting the first and last names."
+msgstr "姓と名を入力するためのテキストフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "A phone number to allow visitors to give you a phone number."
+msgstr "訪問者が電話番号を入力するフィールドです。"
+
+#: includes/class-coblocks-form.php:478 dist/coblocks.js:58
+msgid "Choose one"
+msgstr "1つ選択"
+
+#: dist/coblocks.js:58
+msgid "A field with multiple options where only one choice can be made."
+msgstr "複数のオプションから1つだけ選べるフィールドです。"
+
+#: dist/coblocks.js:58
+msgid "Add a contact form to your page."
+msgstr "ページにお問い合わせフォームを追加します。"
+
+#: dist/coblocks.js:58
+msgid "Choose icon size preset"
+msgstr "アイコンサイズのプリセットを選択"
+
+#: dist/coblocks.js:58
+msgid "Enter a location or address to drop a pin on a Google map."
+msgstr "位置または住所を入力して、Google マップにピンをたてます。"
+
+#: dist/coblocks.js:58
+msgid "Search for a place or address…"
+msgstr "場所または住所を検索..."
+
+#: dist/coblocks.js:58
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: dist/coblocks.js:58
+msgid "Get a key"
+msgstr "キーを取得"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel"
+msgstr "投稿カルーセル"
+
+#: dist/coblocks.js:58
+msgid "No posts found. Start publishing or add posts from an RSS feed."
+msgstr "投稿はありません。RSS フィードから公開または投稿の追加をします。"
+
+#: dist/coblocks.js:58
+msgid "Retrieve an External Feed"
+msgstr "外部フィードを取得"
+
+#: dist/coblocks.js:58
+msgid "Use External Feed"
+msgstr "外部フィードを使用"
+
+#: dist/coblocks.js:58
+msgid "RSS URLs are generally located at the /feed/ directory of a site."
+msgstr "RSS URL は通常、サイトの /feed/ ディレクトリにあります。"
+
+#: dist/coblocks.js:58
+msgid "Read more"
+msgstr "続きを読む"
+
+#: dist/coblocks.js:58
+msgid "Feed settings"
+msgstr "フィード設定"
+
+#: dist/coblocks.js:58
+msgid "My blog"
+msgstr "マイブログ"
+
+#: dist/coblocks.js:58
+msgid "External feed"
+msgstr "外部フィード"
+
+#: dist/coblocks.js:58
+msgid "Number of posts"
+msgstr "投稿数"
+
+#: dist/coblocks.js:58
+msgid "Post Carousel settings"
+msgstr "投稿カルーセル設定"
+
+#: dist/coblocks.js:58
+msgid "Post date"
+msgstr "投稿日"
+
+#: dist/coblocks.js:58
+msgid "Showing the publish date."
+msgstr "公開日を表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the publish date."
+msgstr "公開日を表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Post content"
+msgstr "投稿コンテンツ"
+
+#: dist/coblocks.js:58
+msgid "Showing the post content."
+msgstr "投稿コンテンツを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the post content."
+msgstr "投稿コンテンツを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Max words in content"
+msgstr "コンテンツの最大単語数"
+
+#: dist/coblocks.js:58
+msgid "Image on left"
+msgstr "左に画像"
+
+#: dist/coblocks.js:58
+msgid "Image on right"
+msgstr "右に画像"
+
+#: dist/coblocks.js:58
+msgid "Blog Posts"
+msgstr "ブログ投稿"
+
+#: dist/coblocks.js:58
+msgid "Posts settings"
+msgstr "投稿設定"
+
+#: src/blocks/post-carousel/index.php:40 src/blocks/posts/index.php:40
+msgid "RSS error:"
+msgstr "RSS エラー:"
+
+#: dist/coblocks.js:58
+msgid "Thumbnail size"
+msgstr "サムネイルのサイズ"
+
+#: dist/coblocks.js:58
+msgid "Circle"
+msgstr "円"
+
+#: includes/class-coblocks-form.php:439 dist/coblocks.js:58
+msgid "Phone"
+msgstr "電話"
+
+#: dist/coblocks.js:58
+msgid "Saved"
+msgstr "保存しました"
+
+#: dist/coblocks.js:58
+msgid "Square"
+msgstr "正方形"
+
+#: dist/coblocks.js:58
+msgid "Invalid API key, or too many requests"
+msgstr "API キーが無効、またはリクエストが多すぎます"
+
+#: dist/coblocks.js:58
+msgid "Fine control options are enabled."
+msgstr "微調整オプションが有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable map control options."
+msgstr "マップの調整オプションを有効化するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Map controls"
+msgstr "マップの調整"
+
+#: dist/coblocks.js:58
+msgid "Switching between standard and satellite map views is enabled."
+msgstr "マップの標準地図と航空写真の切り替えが有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable switching between standard and satellite maps."
+msgstr "マップの標準地図と航空写真の変更を有効化するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Zoom controls"
+msgstr "ズームコントロール"
+
+#: dist/coblocks.js:58
+msgid "Showing map zoom controls."
+msgstr "マップのズームコントロールを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable zooming in and out on the map with zoom controls."
+msgstr "マップのズームコントロールを使って拡大・縮小を有効化するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Showing the street view map control."
+msgstr "ストリートビューのマップコントロールを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the street view control at the bottom right."
+msgstr "右下にストリートビューのコントロールを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen toggle"
+msgstr "全画面切り替え"
+
+#: dist/coblocks.js:58
+msgid "Showing the fullscreen map control."
+msgstr "全画面表示のマップコントロールを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the fullscreen map control."
+msgstr "全画面表示のマップコントロールを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Google Maps API key"
+msgstr "Google マップの API キー"
+
+#: dist/coblocks.js:58
+msgid "Add a Google Maps API key. Updating this API key will set all your maps to use the new key."
+msgstr "Google マップの API キーを追加します。この API キーを更新すると、すべてのマップで新しいキーが使われます。"
+
+#: dist/coblocks.js:58
+msgid "https://example.com/feed…"
+msgstr "https://example.com/feed…"
+
+#: src/blocks/post-carousel/index.php:184 src/blocks/posts/index.php:173
+msgctxt "placeholder when a post has no title"
+msgid "(no title)"
+msgstr "(タイトルなし)"
+
+#: dist/coblocks.js:58
+msgid "Edit RSS URL"
+msgstr "RSS の URL を編集"
+
+#: src/blocks/post-carousel/index.php:51 src/blocks/posts/index.php:51
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "エラーが発生しました。フィードの配信が停止している可能性があります。再度お試しください。"
+
+#: dist/coblocks.js:58
+msgid "Need help?"
+msgstr "お困りですか ?"
+
+#: dist/coblocks.js:58
+msgid "https://facebook.com/"
+msgstr "https://facebook.com/"
+
+#: dist/coblocks.js:58
+msgid "https://twitter.com/"
+msgstr "https://twitter.com/"
+
+#: dist/coblocks.js:58
+msgid "https://instagram.com/"
+msgstr "https://instagram.com/"
+
+#: dist/coblocks.js:58
+msgid "https://linkedin.com/"
+msgstr "https://linkedin.com/"
+
+#: dist/coblocks.js:58
+msgid "https://youtube.com/"
+msgstr "https://youtube.com/"
+
+#: dist/coblocks.js:58
+msgid "https://yelp.com/"
+msgstr "https://yelp.com/"
+
+#: dist/coblocks.js:58
+msgid "https://houzz.com/"
+msgstr "https://houzz.com/"
+
+#: dist/coblocks.js:58
+msgid "https://pinterest.com/"
+msgstr "https://pinterest.com/"
+
+#: dist/coblocks.js:58
+msgid "Grow your audience with links to social media profiles."
+msgstr "ソーシャルメディアのプロフィールへのリンクを張って閲覧数をふやします。"
+
+#: dist/coblocks.js:58
+msgid "Add Facebook profile"
+msgstr "Facebook のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Twitter profile"
+msgstr "Twitter のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Instagram profile"
+msgstr "Instagram のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Pinterest profile"
+msgstr "Pinterest のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add LinkedIn profile"
+msgstr "LinkedIn のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add YouTube profile"
+msgstr "YouTube のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Yelp profile"
+msgstr "Yelp のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "Add Houzz profile"
+msgstr "Houzz のプロフィールを追加"
+
+#: dist/coblocks.js:58
+msgid "media"
+msgstr "メディア"
+
+#: dist/coblocks.js:58
+msgid "Edit media"
+msgstr "メディアを編集"
+
+#: dist/coblocks.js:58
+msgid "Styles"
+msgstr "スタイル"
+
+#: dist/coblocks.js:58
+msgid "Google Map"
+msgstr "Google マップ"
+
+#: dist/coblocks.js:58
+msgid "Apply"
+msgstr "適用"
+
+#: dist/coblocks.js:58
+msgid "Icon color"
+msgstr "アイコンの色"
+
+#: dist/coblocks.js:58
+msgid "Icon search"
+msgstr "アイコン検索"
+
+#: dist/coblocks.js:58
+msgid "Internet Explorer support"
+msgstr "Internet Explorer サポート"
+
+#: dist/coblocks.js:58
+msgid "Accordion settings"
+msgstr "アコーディオン設定"
+
+#: dist/coblocks.js:58
+msgid "Media Card settings"
+msgstr "メディアカード設定"
+
+#: dist/coblocks.js:58
+msgid "Media on left"
+msgstr "左にメディア"
+
+#: dist/coblocks.js:58
+msgid "Media on right"
+msgstr "右にメディア"
+
+#: dist/coblocks.js:58
+msgid "Card shadow"
+msgstr "カードの影"
+
+#: dist/coblocks.js:58
+msgid "Showing card shadow."
+msgstr "カードの影を表示する。"
+
+#: dist/coblocks.js:58
+msgid "Showing %s shadow."
+msgstr "%s の影を表示"
+
+#: dist/coblocks.js:58
+msgid " %s shadow"
+msgstr " %s の影"
+
+#: dist/coblocks.js:58
+msgid "Add an image or video with an offset card side-by-side."
+msgstr "オフセットカードを使用して画像または動画を並べて追加します。"
+
+#: dist/coblocks.js:58
+msgid "Add a stylized graphic symbol to communicate something more."
+msgstr "定型化されたグラフィック・シンボルを追加してさらに情報を伝えましょう。"
+
+#: dist/coblocks.js:58
+msgid "Letter spacing"
+msgstr "文字間隔"
+
+#: dist/coblocks.js:58
+msgid "Line height"
+msgstr "行の高さ"
+
+#: dist/coblocks.js:58
+msgid "Size"
+msgstr "サイズ"
+
+#: dist/coblocks.js:58
+msgid "Transform"
+msgstr "変換"
+
+#: dist/coblocks.js:58
+msgid "Font"
+msgstr "フォント"
+
+#: dist/coblocks.js:58
+msgid "Uppercase"
+msgstr "大文字"
+
+#: dist/coblocks.js:58
+msgid "Left"
+msgstr "左"
+
+#: dist/coblocks.js:58
+msgid "Bottom"
+msgstr "下"
+
+#: dist/coblocks.js:58
+msgid "Right"
+msgstr "右"
+
+#: dist/coblocks.js:58
+msgid "Top"
+msgstr "上"
+
+#: dist/coblocks.js:58
+msgid "Background settings"
+msgstr "背景設定"
+
+#: dist/coblocks.js:58
+msgid "Bottom right"
+msgstr "右下"
+
+#: dist/coblocks.js:58
+msgid "Bottom center"
+msgstr "中央下"
+
+#: dist/coblocks.js:58
+msgid "Bottom left"
+msgstr "左下"
+
+#: dist/coblocks.js:58
+msgid "Center center"
+msgstr "中央"
+
+#: dist/coblocks.js:58
+msgid "Top right"
+msgstr "右上"
+
+#: dist/coblocks.js:58
+msgid "Top center"
+msgstr "中央上"
+
+#: dist/coblocks.js:58
+msgid "Top left"
+msgstr "左上"
+
+#: dist/coblocks.js:58
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: dist/coblocks.js:58
+msgid "Position"
+msgstr "位置"
+
+#: dist/coblocks.js:58
+msgid "Column settings"
+msgstr "カラム設定"
+
+#: dist/coblocks.js:58
+msgid "Padding"
+msgstr "パディング"
+
+#: dist/coblocks.js:58
+msgid "Margin"
+msgstr "マージン"
+
+#: dist/coblocks.js:58
+msgid "Width"
+msgstr "幅"
+
+#: dist/coblocks.js:58
+msgid "Change layout"
+msgstr "レイアウトを変更"
+
+#: dist/coblocks.js:58
+msgid "one"
+msgstr "1"
+
+#: dist/coblocks.js:58
+msgid "two"
+msgstr "2"
+
+#: dist/coblocks.js:58
+msgid "three"
+msgstr "3"
+
+#: dist/coblocks.js:58
+msgid "four"
+msgstr "4"
+
+#: dist/coblocks.js:58
+msgid "Row"
+msgstr "行"
+
+#: dist/coblocks.js:58
+msgid "Row layout"
+msgstr "行のレイアウト"
+
+#: dist/coblocks.js:58
+msgid "Layout"
+msgstr "レイアウト"
+
+#: dist/coblocks.js:58
+msgid "None"
+msgstr "なし"
+
+#: dist/coblocks.js:58
+msgid "Gutter"
+msgstr "ガター"
+
+#: dist/coblocks.js:58
+msgid "Sync"
+msgstr "同期"
+
+#: dist/coblocks.js:58
+msgid "Display"
+msgstr "表示"
+
+#: dist/coblocks.js:21 dist/coblocks.js:58
+msgid "Reset"
+msgstr "リセット"
+
+#: dist/coblocks.js:58
+msgid "Huge"
+msgstr "特大"
+
+#: dist/coblocks.js:58
+msgid "Select Units"
+msgstr "単位を選択"
+
+#: dist/coblocks.js:58
+msgid "Large"
+msgstr "大"
+
+#: dist/coblocks.js:58
+msgid "Medium"
+msgstr "中"
+
+#: dist/coblocks.js:58
+msgid "Small"
+msgstr "小"
+
+#: dist/coblocks.js:58
+msgid "Reddit"
+msgstr "Reddit"
+
+#: dist/coblocks.js:58
+msgid "Google"
+msgstr "Google"
+
+#: dist/coblocks.js:58
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: dist/coblocks.js:58
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: src/blocks/social-profiles/index.php:80 dist/coblocks.js:58
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: src/blocks/social-profiles/index.php:68 dist/coblocks.js:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: src/blocks/social-profiles/index.php:72 dist/coblocks.js:58
+msgid "Twitter"
+msgstr "Twitter"
+
+#: dist/coblocks.js:58
+msgid "Icon settings"
+msgstr "アイコン設定"
+
+#: dist/coblocks.js:58
+msgid "Button size"
+msgstr "ボタンサイズ"
+
+#: dist/coblocks.js:58
+msgid "Icon size"
+msgstr "アイコンサイズ"
+
+#: dist/coblocks.js:58
+msgid "Rounded corners"
+msgstr "角丸"
+
+#: dist/coblocks.js:58
+msgid "Share on LinkedIn"
+msgstr "LinkedIn でシェア"
+
+#: dist/coblocks.js:58
+msgid "Buy Now"
+msgstr "今すぐ購入"
+
+#: dist/coblocks.js:58
+msgid "$"
+msgstr "$"
+
+#: dist/coblocks.js:58
+msgid "Gist File"
+msgstr "Gist ファイル"
+
+#: dist/coblocks.js:58
+msgid "Gist settings"
+msgstr "Gist 設定"
+
+#: dist/coblocks.js:58
+msgid "Gist URL"
+msgstr "Gist URL"
+
+#: dist/coblocks.js:58
+msgid "View this gist on GitHub"
+msgstr "GitHub でこの Gist を表示"
+
+#: dist/coblocks.js:58
+msgid "Gist Meta"
+msgstr "Gist メタ"
+
+#: dist/coblocks.js:58
+msgid "Gif settings"
+msgstr "GIF 設定"
+
+#: dist/coblocks.js:58
+msgid "Search for gifs"
+msgstr "GIF を検索"
+
+#: dist/coblocks.js:58
+msgid "Remove gif"
+msgstr "GIF を削除"
+
+#: dist/coblocks.js:58
+msgid "Text settings"
+msgstr "テキスト設定"
+
+#: dist/coblocks.js:58
+msgid "Username"
+msgstr "ユーザー名"
+
+#: dist/coblocks.js:58
+msgid "Twitter Username"
+msgstr "Twitter ユーザー名"
+
+#: dist/coblocks.js:58
+msgid "Background color"
+msgstr "背景色"
+
+#: src/blocks/share/index.php:160 dist/coblocks.js:58
+msgid "Share on Reddit"
+msgstr "Reddit でシェア"
+
+#: src/blocks/share/index.php:156 dist/coblocks.js:58
+msgid "Share on Google"
+msgstr "Google でシェア"
+
+#: src/blocks/share/index.php:148 dist/coblocks.js:58
+msgid "Share via Email"
+msgstr "メールでシェア"
+
+#. Plugin Name of the plugin
+#: dist/coblocks.js:58
+msgid "CoBlocks"
+msgstr "CoBlocks"
+
+#: src/blocks/share/index.php:152 dist/coblocks.js:58
+msgid "Share on Tumblr"
+msgstr "Tumblr でシェア"
+
+#: src/blocks/share/index.php:140 dist/coblocks.js:58
+msgid "Share on Pinterest"
+msgstr "Pinterest でシェア"
+
+#: src/blocks/share/index.php:132 dist/coblocks.js:58
+msgid "Share on Facebook"
+msgstr "Facebook でシェア"
+
+#: dist/coblocks.js:58
+msgid "Stacking buttons on mobile."
+msgstr "モバイル端末でボタンを積み重ねて表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Edit logos"
+msgstr "ロゴを編集"
+
+#: dist/coblocks.js:58
+msgid "Add logos, badges, or certifications to build credibility."
+msgstr "ロゴやバッジ、認証を追加して信頼を築きます。"
+
+#: dist/coblocks.js:58
+msgid "Black & White"
+msgstr "白黒"
+
+#: dist/coblocks.js:58
+msgid "Services settings"
+msgstr "サービス設定"
+
+#: dist/coblocks.js:58
+msgid "Service settings"
+msgstr "サービス設定"
+
+#: src/blocks/social-profiles/index.php:76 dist/coblocks.js:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: src/blocks/social-profiles/index.php:89 dist/coblocks.js:58
+msgid "YouTube"
+msgstr "YouTube"
+
+#: src/blocks/social-profiles/index.php:93 dist/coblocks.js:58
+msgid "Yelp"
+msgstr "Yelp"
+
+#: src/blocks/social-profiles/index.php:97 dist/coblocks.js:58
+msgid "Houzz"
+msgstr "Houzz"
+
+#: dist/coblocks.js:58
+msgid "Heading %d"
+msgstr "見出し%d"
+
+#: dist/coblocks.js:58
+msgid "Icons"
+msgstr "アイコン"
+
+#: dist/coblocks.js:58
+msgid "Drop image to replace"
+msgstr "画像をドロップして置き換える"
+
+#: dist/coblocks.js:58
+msgid "Spicy"
+msgstr "スパイシー"
+
+#: dist/coblocks.js:58
+msgid "Hot"
+msgstr "ホット"
+
+#: dist/coblocks.js:58
+msgid "Vegetarian"
+msgstr "ベジタリアン"
+
+#: dist/coblocks.js:58
+msgid "Gluten Free"
+msgstr "グルテンフリー"
+
+#: dist/coblocks.js:58
+msgid "Pescatarian"
+msgstr "ペスクタリアン"
+
+#: dist/coblocks.js:58
+msgid "Vegan"
+msgstr "ビーガン"
+
+#: dist/coblocks.js:58
+msgid "Add description…"
+msgstr "説明を追加..."
+
+#: dist/coblocks.js:58
+msgid "$0.00"
+msgstr "0.00ドル"
+
+#: dist/coblocks.js:58
+msgid "Image"
+msgstr "画像"
+
+#: dist/coblocks.js:58
+msgid "Image settings"
+msgstr "画像設定"
+
+#: dist/coblocks.js:58
+msgid "Display a menu or price list."
+msgstr "メニューや価格表を表示します。"
+
+#: dist/coblocks.js:58
+msgid "Images"
+msgstr "画像"
+
+#: dist/coblocks.js:58
+msgid "Add social sharing links to help you get likes and shares."
+msgstr "「いいね」やシェアを広げるソーシャル共有リンクを追加します。"
+
+#: dist/coblocks.js:58
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: dist/coblocks.js:58
+msgid "Generate keys"
+msgstr "キーを生成"
+
+#: dist/coblocks.js:58
+msgid "My keys"
+msgstr "キー"
+
+#: dist/coblocks.js:58
+msgid "Get help"
+msgstr "サポート"
+
+#: dist/coblocks.js:58
+msgid "Site key"
+msgstr "サイトキー"
+
+#: dist/coblocks.js:58
+msgid "Secret key"
+msgstr "秘密キー"
+
+#: dist/coblocks.js:58
+msgid "Saving"
+msgstr "保存中"
+
+#: dist/coblocks.js:58
+msgid "Save"
+msgstr "保存"
+
+#: dist/coblocks.js:58
+msgid "Edit Location"
+msgstr "場所を編集"
+
+#: dist/coblocks.js:58
+msgid "Circle size"
+msgstr "円形サイズ"
+
+#: dist/coblocks.js:58
+msgid "Move image backward"
+msgstr "画像を後方に移動"
+
+#: dist/coblocks.js:58
+msgid "Move image forward"
+msgstr "画像を前方に移動"
+
+#: dist/coblocks.js:58
+msgid "Radius"
+msgstr "半径"
+
+#: dist/coblocks.js:58
+msgid "Opening in new tab"
+msgstr "新しいタブで開いています"
+
+#: dist/coblocks.js:58
+msgid "Open in new tab"
+msgstr "新しいタブで開く"
+
+#: dist/coblocks.js:58
+msgid "palette design colors artist paint creative media"
+msgstr "パレット デザイン 色 アーティスト ペイント クリエイティブ メディア"
+
+#: includes/class-coblocks-form.php:246 dist/coblocks.js:58
+msgid "Name"
+msgstr "名前"
+
+#: dist/coblocks.js:58
+msgid "Buttons"
+msgstr "ボタン"
+
+#: dist/coblocks.js:58
+msgid "Add as background"
+msgstr "背景として追加"
+
+#: dist/coblocks.js:58
+msgid "A singular child column within a parent features block."
+msgstr "特集ブロック内にある単一のカラムです。"
+
+#: dist/coblocks.js:58
+msgid "Feature settings"
+msgstr "特集設定"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of small notes for your product or service."
+msgstr "商品やサービスの短いメモを最大3カラムまで追加できます。"
+
+#: dist/coblocks.js:58
+msgid "Features settings"
+msgstr "特集設定"
+
+#: dist/coblocks.js:58
+msgid "Columns"
+msgstr "カラム"
+
+#: dist/coblocks.js:58
+msgid "Describe the purpose of the image"
+msgstr "画像の目的を説明"
+
+#: dist/coblocks.js:58
+msgid "Focal point"
+msgstr "フォーカルポイント"
+
+#: includes/class-coblocks-form.php:336 dist/coblocks.js:58
+msgid "Message"
+msgstr "メッセージ"
+
+#: dist/coblocks.js:58
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: dist/coblocks.js:58
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: dist/coblocks.js:58
+msgid "Subject"
+msgstr "件名"
+
+#: dist/coblocks.js:58
+msgid "Form settings"
+msgstr "フォーム設定"
+
+#: dist/coblocks.js:58
+msgid "Remove"
+msgstr "削除"
+
+#: includes/class-coblocks-form.php:250 dist/coblocks.js:58
+msgid "First"
+msgstr "名"
+
+#: includes/class-coblocks-form.php:251 dist/coblocks.js:58
+msgid "Last"
+msgstr "姓"
+
+#: dist/coblocks.js:58
+msgid "Required"
+msgstr "必須"
+
+#: dist/coblocks.js:58
+msgid "Name Field settings"
+msgstr "名前フィールド設定"
+
+#: dist/coblocks.js:58
+msgid "Last name"
+msgstr "姓"
+
+#: dist/coblocks.js:58
+msgid "Showing both first and last name fields."
+msgstr "姓と名のフィールドを両方表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Button text color"
+msgstr "ボタンテキスト色"
+
+#: dist/coblocks.js:58
+msgid "Carousel"
+msgstr "カルーセル"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a beautiful carousel gallery."
+msgstr "複数の画像を美しいカルーセルギャラリーで表示します。"
+
+#: dist/coblocks.js:58
+msgid "Captions"
+msgstr "キャプション"
+
+#: dist/coblocks.js:58
+msgid "Caption style"
+msgstr "キャプションのスタイル"
+
+#: dist/coblocks.js:58
+msgid "Stacked"
+msgstr "スタック"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images"
+msgstr "全幅画像"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth image"
+msgstr "全幅画像"
+
+#: dist/coblocks.js:58
+msgid "Content width in pixels"
+msgstr "コンテンツの幅（ピクセル）"
+
+#: dist/coblocks.js:58
+msgid "Hero settings"
+msgstr "ヒーロー設定"
+
+#: dist/coblocks.js:58
+msgid "Link settings"
+msgstr "リンク設定"
+
+#: dist/coblocks.js:58
+msgid "Add a shape divider to visually distinquish page sections."
+msgstr "ページのセクションが視覚的に明確になるようシェイプ区切りを追加します。"
+
+#: dist/coblocks.js:58
+msgid "Shape color"
+msgstr "シェイプ色"
+
+#: dist/coblocks.js:58
+msgid "Divider settings"
+msgstr "区切り設定"
+
+#: dist/coblocks.js:58
+msgid "Edit background"
+msgstr "背景を編集"
+
+#: dist/coblocks.js:58
+msgid "Mute video"
+msgstr "動画のミュート"
+
+#: dist/coblocks.js:58
+msgid "Muting the background video."
+msgstr "背景の動画をミュート再生しています。"
+
+#: dist/coblocks.js:58
+msgid "Loop video"
+msgstr "動画のループ"
+
+#: dist/coblocks.js:58
+msgid "Looping the background video."
+msgstr "背景の動画をループ再生しています。"
+
+#: dist/coblocks.js:58
+msgid "Remove background"
+msgstr "背景を削除"
+
+#: dist/coblocks.js:58
+msgid "%s Gallery"
+msgstr "%sギャラリー"
+
+#: dist/coblocks.js:58
+msgid "Media file"
+msgstr "メディアファイル"
+
+#: dist/coblocks.js:58
+msgid "Select layout"
+msgstr "レイアウトを選択"
+
+#: dist/coblocks.js:58
+msgid "Custom color picker"
+msgstr "カスタムカラーピッカー"
+
+#: dist/coblocks.js:58
+msgid "Apply filter"
+msgstr "フィルターを適用"
+
+#: dist/coblocks.js:58
+msgid "Height"
+msgstr "高さ"
+
+#: dist/coblocks.js:58
+msgid "Select size"
+msgstr "サイズを選択"
+
+#: dist/coblocks.js:58
+msgid "Extra Large"
+msgstr "特大"
+
+#: dist/coblocks.js:58
+msgid "One Second"
+msgstr "1秒"
+
+#: dist/coblocks.js:58
+msgid "Two Seconds"
+msgstr "2秒"
+
+#: dist/coblocks.js:58
+msgid "Three Seconds"
+msgstr "3秒"
+
+#: dist/coblocks.js:58
+msgid "Four Seconds"
+msgstr "4秒"
+
+#: dist/coblocks.js:58
+msgid "Five Seconds"
+msgstr "5秒"
+
+#: dist/coblocks.js:58
+msgid "Six Seconds"
+msgstr "6秒"
+
+#: dist/coblocks.js:58
+msgid "Seven Seconds"
+msgstr "7秒"
+
+#: dist/coblocks.js:58
+msgid "Eight Seconds"
+msgstr "8秒"
+
+#: dist/coblocks.js:58
+msgid "Nine Seconds"
+msgstr "9秒"
+
+#: dist/coblocks.js:58
+msgid "Ten Seconds"
+msgstr "10秒"
+
+#: dist/coblocks.js:58
+msgid "seconds"
+msgstr "秒"
+
+#: dist/coblocks.js:58
+msgid "second"
+msgstr "秒"
+
+#: dist/coblocks.js:58
+msgid "Advancing after %1$d %2$s."
+msgstr "%1$d%2$s後に進みます。"
+
+#: dist/coblocks.js:58
+msgid "Automatically advance to the next slide."
+msgstr "自動的に次のスライドに進めます。"
+
+#: dist/coblocks.js:58
+msgid "Showing slide navigation arrows."
+msgstr "スライドナビゲーションの矢印を表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Slider settings"
+msgstr "スライダー設定"
+
+#: dist/coblocks.js:58
+msgid "Transition speed"
+msgstr "遷移速度"
+
+#: dist/coblocks.js:58
+msgid "Draggable"
+msgstr "ドラッグ可能"
+
+#: dist/coblocks.js:58
+msgid "Arrow navigation"
+msgstr "矢印ナビゲーション"
+
+#: dist/coblocks.js:58
+msgid "Dot navigation"
+msgstr "ドットナビゲーション"
+
+#: dist/coblocks.js:58
+msgid "Display fullwidth"
+msgstr "全幅で表示"
+
+#: dist/coblocks.js:58
+msgid "Displaying as full width."
+msgstr "全幅で表示します。"
+
+#: dist/coblocks.js:58
+msgid "Shadow"
+msgstr "影"
+
+#. Author of the plugin
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#. Author URI of the plugin
+msgid "https://www.godaddy.com"
+msgstr "https://www.godaddy.com"
+
+#: includes/class-coblocks-form.php:755 dist/coblocks.js:58
+msgid "Submit"
+msgstr "送信"
+
+#: dist/coblocks.js:58
+msgid "Custom"
+msgstr "カスタム"
+
+#: dist/coblocks.js:58
+msgid "Thumbnails"
+msgstr "サムネイル"
+
+#: dist/coblocks.js:58
+msgid "Lightbox"
+msgstr "ライトボックス"
+
+#: dist/coblocks.js:58
+msgid "Responsive height"
+msgstr "レスポンシブな高さ"
+
+#: dist/coblocks.js:58
+msgid "Showing thumbnail navigation."
+msgstr "サムネイルのナビゲーションを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show thumbnails."
+msgstr "サムネイルを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Percentage based height is activated."
+msgstr "縦横比を保った表示が有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle for percentage based height."
+msgstr "縦横比を保った表示にするには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Image lightbox is enabled."
+msgstr "画像ライトボックスが有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable the image lightbox."
+msgstr "画像ライトボックスを有効化するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Assemble images into a beautiful collage gallery."
+msgstr "画像を組み合わせて美しいコラージュのギャラリーを作ります。"
+
+#: dist/coblocks.js:58
+msgid "Collage settings"
+msgstr "コラージュ設定"
+
+#: dist/coblocks.js:58
+msgid "Add an address or location to drop a pin on a Google map."
+msgstr "住所または位置を追加して、Google マップにピンをたてます。"
+
+#: dist/coblocks.js:58
+msgid "Change row block layout"
+msgstr "行ブロックのレイアウトを変更"
+
+#: dist/coblocks.js:58
+msgid "Equal split"
+msgstr "1:1"
+
+#: dist/coblocks.js:58
+msgid "Two thirds / one third"
+msgstr "2:1"
+
+#: dist/coblocks.js:58
+msgid "One third / two thirds"
+msgstr "1:2"
+
+#: dist/coblocks.js:58
+msgid "Three quarters / quarter"
+msgstr "3:1"
+
+#: dist/coblocks.js:58
+msgid "Quarter / three quarters"
+msgstr "1:3"
+
+#: dist/coblocks.js:58
+msgid "Thirds"
+msgstr "1:1:1"
+
+#: dist/coblocks.js:58
+msgid "Half / quarter / quarter"
+msgstr "2:1:1"
+
+#: dist/coblocks.js:58
+msgid "Quarter / quarter/ half"
+msgstr "1:1:2"
+
+#: dist/coblocks.js:58
+msgid "Quarter / half / quarter"
+msgstr "1:2:1"
+
+#: dist/coblocks.js:58
+msgid "One fifth/ three fifths / one fifth"
+msgstr "1:3:1"
+
+#: dist/coblocks.js:58
+msgid "Quarters"
+msgstr "1:1:1:1"
+
+#: dist/coblocks.js:58
+msgid "Two fifths / fifth / fifth / fifth"
+msgstr "2:1:1:1"
+
+#: dist/coblocks.js:58
+msgid "Fifth / fifth / fifth / two fifths"
+msgstr "1:1:1:2"
+
+#: dist/coblocks.js:58
+msgid "Edit avatar"
+msgstr "アバターを編集"
+
+#: dist/coblocks.js:58
+msgid "Write author name…"
+msgstr "作成者名を入力..."
+
+#: dist/coblocks.js:58
+msgid "Write a biography that distills objective credibility and authority to your readers…"
+msgstr "読者に客観的な信頼性が伝わる経歴を書きます..."
+
+#: dist/coblocks.js:58
+msgid "Author settings"
+msgstr "作成者設定"
+
+#: dist/coblocks.js:58
+msgid "One Pricing Table"
+msgstr "価格表1つ"
+
+#: dist/coblocks.js:58
+msgid "Two Pricing Tables"
+msgstr "価格表2つ"
+
+#: dist/coblocks.js:58
+msgid "Three Pricing Tables"
+msgstr "価格表3つ"
+
+#: dist/coblocks.js:58
+msgid "Four Pricing Tables"
+msgstr "価格表4つ"
+
+#: dist/coblocks.js:58
+msgid "Change pricing table count"
+msgstr "価格表の数を変更"
+
+#: dist/coblocks.js:21
+msgid "Crop settings image placeholder"
+msgstr "画像プレースホルダーのトリミング設定"
+
+#: dist/coblocks.js:21
+msgid "Image orientation"
+msgstr "画像の向き"
+
+#: dist/coblocks.js:21
+msgid "Rotate counter-clockwise"
+msgstr "反時計回りに回転"
+
+#: dist/coblocks.js:21
+msgid "Rotate clockwise"
+msgstr "時計回りに回転"
+
+#: dist/coblocks.js:21
+msgid "Reset image cropping options"
+msgstr "画像トリミングオプションをリセット"
+
+#: dist/coblocks.js:58
+msgid "Free scroll"
+msgstr "フリースクロール"
+
+#: dist/coblocks.js:58
+msgid "Align cells"
+msgstr "セルを揃える"
+
+#: dist/coblocks.js:58
+msgid "Dragging and flicking enabled."
+msgstr "ドラッグとフリックが有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable drag functionality."
+msgstr "ドラッグ機能を有効化するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Showing dot navigation."
+msgstr "ドットナビゲーションを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the left."
+msgstr "スライドを左に揃えています。"
+
+#: dist/coblocks.js:58
+msgid "Aligning slides to the center."
+msgstr "スライドを中央に揃えています。"
+
+#: dist/coblocks.js:58
+msgid "Pausing autoplay when hovering."
+msgstr "ホバー時にオートプレイを一時停止します。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to pause autoplay when hovered."
+msgstr "ホバー時にオートプレイを一時停止するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Scrolling without fixed slides enabled."
+msgstr "スライド固定せずにスクロール、が有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to scroll without fixed slides."
+msgstr "スライドを固定せずにスクロールするには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Pause on hover"
+msgstr "ホバー時に一時停止"
+
+#: dist/coblocks.js:21
+msgid "Crop settings"
+msgstr "トリミング設定"
+
+#: dist/coblocks.js:58
+msgid "Add background to hero"
+msgstr "ヒーローに背景を追加"
+
+#: dist/coblocks.js:58
+msgid "Provide contextual feedback messages or notices."
+msgstr "文脈にそったフィードバックメッセージまたは通知を表示します。"
+
+#: dist/coblocks.js:58
+msgid "This is an alert block"
+msgstr "これはアラートブロックです"
+
+#: dist/coblocks.js:58
+msgid "An alert is a message that displays outside the flow of typical content. Alerts provide contextual feedback, typically asking readers to take an action."
+msgstr "アラートは、一般的なコンテンツの流れから外れて表示されるメッセージです。文脈にそったフィードバックを提供し、多くの場合、読者のアクションを求めます。"
+
+#: dist/coblocks.js:58
+msgid "Add an author biography to build credibility and authority."
+msgstr "信頼を得るために作成者の経歴を追加します。"
+
+#: dist/coblocks.js:58
+msgid "Born to express, not to impress. A maker making the world I want."
+msgstr "押しつける (impress) ためでなく、表現 (express) するために生まれてきた。理想の世界を創る作り手です。"
+
+#: dist/coblocks.js:58
+msgid "The easiest way to promote and advertise your blog, website, and business on Twitter."
+msgstr "ブログや Web サイト、ビジネスを Twitter で紹介・宣伝する最も簡単な方法です。"
+
+#: dist/coblocks.js:58
+msgid "Subject example"
+msgstr "件名の例"
+
+#: dist/coblocks.js:58
+msgid "Carousel settings"
+msgstr "カルーセル設定"
+
+#: dist/coblocks.js:58
+msgid "Masonry settings"
+msgstr "石造設定"
+
+#: dist/coblocks.js:58
+msgid "Stacked settings"
+msgstr "スタック設定"
+
+#: dist/coblocks.js:58
+msgid "Draw attention and emphasize important narrative."
+msgstr "重要な内容に注意を引いて強調します。"
+
+#: dist/coblocks.js:58
+msgid "Add a highlight effect to paragraph text in order to grab attention and emphasize important narrative."
+msgstr "段落テキストにハイライト効果を追加して注目を集め、重要な内容を強調します。"
+
+#: dist/coblocks.js:58
+msgid "Reset icon size"
+msgstr "アイコンサイズをリセット"
+
+#: dist/coblocks.js:58
+msgid "Apply custom size"
+msgstr "カスタムサイズを適用"
+
+#: dist/coblocks.js:58
+msgid "Add pricing tables to help visitors compare products and plans."
+msgstr "商品やプランを比較できるように価格表を追加します。"
+
+#: dist/coblocks.js:58
+msgid "A pricing table to help visitors compare products and plans."
+msgstr "訪問者が商品やプランを比較できる価格表です。"
+
+#: dist/coblocks.js:58
+msgid "Add background to column"
+msgstr "カラムに背景を追加"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add top margin back."
+msgstr "上部の余白を元に戻すには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any top margin."
+msgstr "上部の余白を削除するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add bottom margin back."
+msgstr "下部の余白を元に戻すには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to remove any bottom margin."
+msgstr "下部の余白を削除するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Add up to four columns of services to display."
+msgstr "表示するサービスを4カラムまで追加できます。"
+
+#: dist/coblocks.js:58
+msgid "A single service item within a services block."
+msgstr "サービスブロック内のサービス項目1つです。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack buttons on mobile."
+msgstr "モバイル端末でボタンを積み重ねて表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Add hero content, which is typically an introductory area of a page accompanied by call to action or two."
+msgstr "通常、CTA などをともなうページの導入エリアとして使用されるヒーローコンテンツを追加します。"
+
+#: dist/coblocks.js:58
+msgid "Logos & Badges"
+msgstr "ロゴ & バッジ"
+
+#: dist/coblocks.js:58
+msgid "Plan %d"
+msgstr "プラン%d"
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action buttons."
+msgstr "Call to Action ボタンを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show call to action buttons."
+msgstr "Call to Action ボタンを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Showing the call to action button."
+msgstr "Call to Action ボタンを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show a call to action button."
+msgstr "Call to Action ボタンを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Add menu section"
+msgstr "メニュー追加セクション"
+
+#: dist/coblocks.js:58
+msgid "Spicier"
+msgstr "超スパイシー"
+
+#: dist/coblocks.js:58
+msgid "A food and drink item within the Food & Drinks block."
+msgstr "フード&ドリンクブロックの飲食物項目です。"
+
+#: dist/coblocks.js:58
+msgid "Item settings"
+msgstr "項目設定"
+
+#: dist/coblocks.js:58
+msgid "Showing an image for this item."
+msgstr "この項目の画像を表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show an image for this item."
+msgstr "この項目の画像を表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Showing the price for this item."
+msgstr "この項目の価格を表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price for this item."
+msgstr "この項目の価格を表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Item attributes"
+msgstr "項目の属性"
+
+#: dist/coblocks.js:58
+msgid "Showing images for each item"
+msgstr "各項目の画像を表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show images for each item."
+msgstr "各項目の画像を表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Showing the price of each item"
+msgstr "各項目の価格を表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the price of each item."
+msgstr "各項目の価格を表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Share button colors are enabled."
+msgstr "シェアボタンの色は有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Custom URL"
+msgstr "カスタム URL"
+
+#: dist/coblocks.js:58
+msgid "Add your reCAPTCHA site and secret keys to protect your form from spam."
+msgstr "reCAPTCHA サイトと秘密キーを追加してスパムからフォームを守ります。"
+
+#: dist/coblocks.js:58
+msgid "Loading Gist"
+msgstr "Gist を読み込んでいます"
+
+#: includes/class-coblocks-form.php:77
+msgid "Google reCaptcha site key for form spam protection"
+msgstr "スパムからフォームを守る Google reCAPTCHA のサイトキー"
+
+#: includes/class-coblocks-form.php:89
+msgid "Google reCaptcha secret key for form spam protection"
+msgstr "スパムからフォームを守る Google reCAPTCHA の秘密キー"
+
+#: dist/coblocks.js:58
+msgid "Link URL"
+msgstr "リンク URL"
+
+#: dist/coblocks.js:58
+msgid "Prompt visitors to take action with multiple buttons, side by side."
+msgstr "複数のボタンを隣同士に並べて、訪問者にアクションを選ぶよう促します。"
+
+#: dist/coblocks.js:58
+msgid "%s is not a valid email address."
+msgstr "%s は有効なメールアドレスではありません。"
+
+#: dist/coblocks.js:58
+msgid "%s and %s are not valid email addresses."
+msgstr "%s と %s は有効なメールアドレスではありません。"
+
+#: dist/coblocks.js:58
+msgid "%s are not valid email addresses."
+msgstr "%s は有効なメールアドレスではありません。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a last name field."
+msgstr "姓のフィールドを追加するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "A text box for longer responses."
+msgstr "より長い文章のためのテキストボックスです。"
+
+#: dist/coblocks.js:58
+msgid "Showing captions for each media item."
+msgstr "メディア項目にキャプションを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show media captions."
+msgstr "メディアにキャプションを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in an organized masonry gallery."
+msgstr "複数の画像を整頓された石造ギャラリーで表示します。"
+
+#: dist/coblocks.js:58
+msgid "Add rounded corners to the gallery items."
+msgstr "ギャラリー項目に角丸を追加します。"
+
+#: dist/coblocks.js:58
+msgid "Display multiple images in a single column stacked gallery."
+msgstr "1カラムのギャラリーに複数の画像をスタックで表示します。"
+
+#: dist/coblocks.js:58
+msgid "Fullwidth images are enabled."
+msgstr "全幅画像が有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to fill the available gallery area with completely fullwidth images."
+msgstr "ギャラリーエリアを全幅画像で埋めるには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "An introductory area of a page accompanied by a small amount of text and a call to action."
+msgstr "短いテキストと CTA を含む、ページの導入エリアです。"
+
+#: dist/coblocks.js:58
+msgid "Add background to row"
+msgstr "行に背景を追加"
+
+#: dist/coblocks.js:58
+msgid "Flip horiztonally"
+msgstr "水平方向に反転"
+
+#: dist/coblocks.js:58
+msgid "Flip vertically"
+msgstr "垂直方向に反転"
+
+#: dist/coblocks.js:58
+msgid "Shape height in pixels"
+msgstr "シェイプの高さ (ピクセル)"
+
+#: dist/coblocks.js:58
+msgid "Background height in pixels"
+msgstr "背景の高さ (ピクセル)"
+
+#: dist/coblocks.js:58
+msgid "Toggle to mute the video."
+msgstr "動画をミュート再生するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to loop the video."
+msgstr "動画をループ再生するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Link to"
+msgstr "リンク先"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen mode is enabled."
+msgstr "全画面モードが有効化されています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to enable fullscreen mode."
+msgstr "全画面モードを有効化するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show slide navigation arrows."
+msgstr "スライドナビゲーションの矢印を表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show dot navigation."
+msgstr "ドットナビゲーションを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to display button as full width."
+msgstr "ボタンを全幅で表示するには切り替えます。"
+
+#: includes/class-coblocks-form.php:1043
+msgid "Your message was sent:"
+msgstr "メッセージを送信しました:"
+
+#: dist/coblocks.js:58
+msgid "Remove image"
+msgstr "画像を削除"
+
+#: dist/coblocks.js:58
+msgid "One column"
+msgstr "1カラム"
+
+#: dist/coblocks.js:58
+msgid "Period"
+msgstr "ピリオド"
+
+#: dist/coblocks.js:58
+msgid "Text color"
+msgstr "テキスト色"
+
+#: dist/coblocks.js:58
+msgid "Three columns"
+msgstr "3カラム"
+
+#: dist/coblocks.js:58
+msgid "Two columns"
+msgstr "2カラム"
+
+#: dist/coblocks.js:58
+msgid "Price"
+msgstr "金額"
+
+#: dist/coblocks.js:58
+msgid "Prices"
+msgstr "金額"
+
+#: dist/coblocks.js:58
+msgid "No results found."
+msgstr "見つかりませんでした。"
+
+#: dist/coblocks.js:58
+msgid "Add text…"
+msgstr "テキストを追加…"
+
+#: dist/coblocks.js:58
+msgid "Autoplay"
+msgstr "自動再生"
+
+#: dist/coblocks.js:58
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+#: dist/coblocks.js:58
+msgid "Masonry"
+msgstr "Masonry"
+
+#: dist/coblocks.js:58
+msgid "Max width"
+msgstr "最大幅"
+
+#: dist/coblocks.js:58
+msgid "Drop to replace media"
+msgstr "ドロップしてメディアを置き換える"
+
+#: dist/coblocks.js:58
+msgid "Change typography"
+msgstr "タイポグラフィを変更"
+
+#: dist/coblocks.js:58
+msgid "Responsiveness is enabled."
+msgstr "レスポンシブが有効です。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to stack elements on top of each other on smaller viewports."
+msgstr "切り替えると、表示域が小さい場合に要素同士を積み重ねて表示します。"
+
+#: dist/coblocks.js:58
+msgid "Height in pixels"
+msgstr "ピクセル値での高さ "
+
+#: dist/coblocks.js:58
+msgid "Write caption…"
+msgstr "キャプションを入力..."
+
+#: dist/coblocks.js:58
+msgid "Remove top spacing"
+msgstr "上部の余白を削除"
+
+#: dist/coblocks.js:58
+msgid "Remove bottom spacing"
+msgstr "下部の余白を削除"
+
+#: dist/coblocks.js:58
+msgid "Replace this text with descriptive copy to go along with the card image. Then add more blocks to this card, such as buttons, lists or images."
+msgstr "このテキストを説明的なコピーに置き換えてカード画像に合わせます。それから、ボタンやリスト、画像などのブロックをこのカードに追加します。"
+
+#: dist/coblocks.js:58
+msgid "Add collapsable accordion items to accordions."
+msgstr "折りたためるアコーディオン項目をアコーディオンに追加します。"
+
+#: dist/coblocks.js:58
+msgid "Organize content within collapsable accordion items."
+msgstr "折りたためるアコーディオン項目でコンテンツを整理します。"
+
+#: dist/coblocks.js:58
+msgid "Add support for Internet Explorer by loading a JavaScript polyfill."
+msgstr "JavaScript のポリフィルを読み込んで、Internet Explorer へのサポートを追加します。"
+
+#: dist/coblocks.js:58
+msgid "Supporting Internet Explorer by loading a JavaScript polyfill on this page."
+msgstr "このページに JavaScript のポリフィルを読み込んで、Internet Explorer をサポートします。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add a card shadow."
+msgstr "カードの影を追加するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to add an %s shadow"
+msgstr "%sの影を追加するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Space inside of the container."
+msgstr "コンテナ内のスペースです。"
+
+#: dist/coblocks.js:58
+msgid "Center left"
+msgstr "左中央"
+
+#: dist/coblocks.js:58
+msgid "Center right"
+msgstr "右中央"
+
+#: dist/coblocks.js:58
+msgid "An immediate child of a row."
+msgstr "行のすぐ下に表示されます。"
+
+#: dist/coblocks.js:58
+msgid "Space around the container."
+msgstr "コンテナの周囲の余白です。"
+
+#: dist/coblocks.js:58
+msgid "Four columns"
+msgstr "4カラム"
+
+#: dist/coblocks.js:58
+msgid "Select a layout for this %s column row."
+msgstr "この%sカラムの行のレイアウトを選びます。"
+
+#: includes/class-coblocks-google-map-block.php:120
+msgid "Google Map API key for map rendering"
+msgstr "マップレンダリングの Google マップ API キー"
+
+#: dist/coblocks.js:58
+msgid "Select the number of columns for this row."
+msgstr "この行のカラム数を選びます。"
+
+#: dist/coblocks.js:58
+msgid "Select row columns"
+msgstr "行のカラム数を選ぶ"
+
+#: dist/coblocks.js:58
+msgid "Select row layout"
+msgstr "行のレイアウトを選ぶ"
+
+#: dist/coblocks.js:58
+msgid "Back to columns"
+msgstr "カラムに戻る"
+
+#: dist/coblocks.js:58
+msgid "Add a structured wrapper for column blocks, then add content blocks you’d like to the columns."
+msgstr "カラムブロックに構造ラッパーを追加してから、カラムにコンテンツブロックを追加します。"
+
+#: dist/coblocks.js:58
+msgid "Row settings"
+msgstr "行設定"
+
+#: dist/coblocks.js:58
+msgid "%s units"
+msgstr "%s単位"
+
+#: dist/coblocks.js:58
+msgid "Turn off advanced %s settings"
+msgstr "%sの高度な設定をオフにする"
+
+#: dist/coblocks.js:58
+msgid "%s top"
+msgstr "%s上"
+
+#: dist/coblocks.js:58
+msgid "%s right"
+msgstr "%s右"
+
+#: dist/coblocks.js:58
+msgid "%s bottom"
+msgstr "%s下"
+
+#: dist/coblocks.js:58
+msgid "%s left"
+msgstr "%s左"
+
+#: dist/coblocks.js:58
+msgid "Unsync"
+msgstr "同期しない"
+
+#: dist/coblocks.js:58
+msgid "Sync units"
+msgstr "単位を同期"
+
+#: dist/coblocks.js:58
+msgid "Advanced %s settings"
+msgstr "%sの高度な設定"
+
+#: dist/coblocks.js:58
+msgid "Mobile %s"
+msgstr "モバイル%s"
+
+#: dist/coblocks.js:58
+msgid "Weight"
+msgstr "太字"
+
+#: dist/coblocks.js:58
+msgid "No top spacing"
+msgstr "上部の余白なし"
+
+#: dist/coblocks.js:58
+msgid "No bottom spacing"
+msgstr "下部の余白なし"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Review CoBlocks on WordPress.org"
+msgstr "WordPress.org で CoBlock を確認"
+
+#. Description of the plugin
+msgid "CoBlocks is a suite of professional <strong>page building content blocks</strong> for the WordPress Gutenberg block editor. Our blocks are hyper-focused on empowering makers to build beautifully rich pages in WordPress."
+msgstr "CoBlocks は、ブロックエディターの WordPress Gutenberg 向けに、プロフェッショナルな<strong>ページ作成用のコンテンツブロック</strong>を豊富にそろえたツールです。WordPress で美しくてリッチなページを作成する方のニーズにフォーカスしたブロックをご用意しています。"
+
+#: dist/coblocks.js:58
+msgid "Add highlighted text…"
+msgstr "ハイライト表示のテキストを追加..."
+
+#: dist/coblocks.js:58
+msgid "Add features"
+msgstr "特集を追加"
+
+#: dist/coblocks.js:58
+msgid "Plan A"
+msgstr "プランA"
+
+#: dist/coblocks.js:58
+msgid "Social colors"
+msgstr "ソーシャルメディアの色"
+
+#: dist/coblocks.js:58
+msgid "Toggle to use official colors from each social media platform."
+msgstr "切り替えると、ソーシャル メディア プラットフォームの公式カラーを使います。"
+
+#: includes/class-coblocks-form.php:217 includes/class-coblocks-form.php:306
+#: dist/coblocks.js:58
+msgid "Email"
+msgstr "メール"
+
+#: src/blocks/share/index.php:144
+msgid "Share on Linkedin"
+msgstr "LinkedIn でシェア"
+
+#: src/blocks/share/index.php:136 dist/coblocks.js:58
+msgid "Share on Twitter"
+msgstr "‌‌Twitter でシェア"
+
+#: dist/coblocks.js:58
+msgid "This gif has an empty alt attribute"
+msgstr "この GIF には空の alt 属性があります"
+
+#: dist/coblocks.js:58
+msgid "Search for that perfect gif on Giphy"
+msgstr "Giphy で適切な GIF を検索"
+
+#: dist/coblocks.js:58
+msgid "Pick a gif, any gif."
+msgstr "どの GIF でも良いので選択します。"
+
+#: dist/coblocks.js:58
+msgid "Add GitHub Gist URL…"
+msgstr "GitHub Gist の URL を追加..."
+
+#: dist/coblocks.js:58
+msgid "Embed GitHub gists by adding a gist link."
+msgstr "Gist のリンクを追加することで GitHub Gist を埋め込みます。"
+
+#: dist/coblocks.js:58
+msgid "Showing gist meta data."
+msgstr "Gist のメタデータを表示しています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to show the gist meta data."
+msgstr "Gist のメタデータを表示するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Accordion item is open by default."
+msgstr "アコーディオン項目は初期設定で開いています。"
+
+#: dist/coblocks.js:58
+msgid "Toggle to set this accordion item to be open by default."
+msgstr "初期設定でこのアコーディオン項目を開くように設定するには切り替えます。"
+
+#: dist/coblocks.js:58
+msgid "Accordion Item settings"
+msgstr "アコーディオン項目設定"
+
+#: dist/coblocks.js:58
+msgid "Add a quote to tweet…"
+msgstr "引用を追加してツイート..."
+
+#: dist/coblocks.js:58
+msgid "Add a quote for readers to tweet via Twitter."
+msgstr "引用を追加して Twitter で読者にツイートします。"
+
+#: includes/admin/class-coblocks-action-links.php:41
+msgid "Leave a Review"
+msgstr "レビューを書く"
+
+#: dist/coblocks.js:58
+msgid "Button Color"
+msgstr "ボタン色"
+
+#: dist/coblocks.js:58
+msgid "Add a resizable spacer between other blocks."
+msgstr "サイズ調整のできるスペーサーをブロック間に追加します。"
+
+#: dist/coblocks.js:58
+msgid "Height for the dynamic separator element in pixels."
+msgstr "ピクセルで表した動的区切り要素の高さです。"
+
+#: dist/coblocks.js:58
+msgid "Link rel"
+msgstr "リンク rel 属性"
+
+#: src/blocks/social-profiles/index.php:84
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: dist/coblocks.js:58
+msgid "image %1$d of %2$d in gallery"
+msgstr "ギャラリー内の画像%1$d件中%2$d件"
+
+#: dist/coblocks.js:58
+msgid "Food & Drinks Settings"
+msgstr "食品と飲料の設定"
+
+#: dist/coblocks.js:58
+msgid "Leave empty if the image is purely decorative."
+msgstr "画像が単なる装飾の場合、空欄にします。"
+
+#: dist/coblocks.js:58
+msgid "Fixed background"
+msgstr "固定背景"
+
+#: dist/coblocks.js:58
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "画像をドラッグするか、新規アップロードするか、ライブラリからファイルを選択してください。"
+
+#: dist/coblocks.js:58
+msgid "Default"
+msgstr "デフォルト"
+
+#: dist/coblocks.js:58
+msgid "Background opacity"
+msgstr "背景の透過率"
+
+#: dist/coblocks.js:58
+msgid "Attachment page"
+msgstr "添付ファイルのページ"
+
+#: dist/coblocks.js:58
+msgid "Alt text (alternative text)"
+msgstr "Alt テキスト (代替テキスト)"
+
+#: dist/coblocks.js:58
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: dist/coblocks.js:58
+msgid "Add label…"
+msgstr "ラベルを追加…"

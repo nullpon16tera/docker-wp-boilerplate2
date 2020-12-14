@@ -1,0 +1,23 @@
+@mixin safe-top($n: 0px) {
+	padding-top: #{$n};
+	padding-top: calc(env(safe-area-inset-top) + #{$n});
+	padding-top: calc(constant(safe-area-inset-top) + #{$n});
+}
+
+@mixin safe-right($n: 0px) {
+	padding-right: #{$n};
+	padding-right: calc(env(safe-area-inset-right) + #{$n});
+	padding-right: calc(constant(safe-area-inset-right) + #{$n});
+}
+
+@mixin safe-bottom($n: 0px) {
+	padding-bottom: #{$n};
+	padding-bottom: calc(env(safe-area-inset-bottom) + #{$n});
+	padding-bottom: calc(constant(safe-area-inset-bottom) + #{$n});
+}
+
+@mixin safe-left($n: 0px) {
+	padding-left: #{$n};
+	padding-left: calc(env(safe-area-inset-left) + #{$n});
+	padding-left: calc(constant(safe-area-inset-left) + #{$n});
+}

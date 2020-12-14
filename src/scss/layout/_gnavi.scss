@@ -1,0 +1,21 @@
+.gnavi {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	@media (min-width: $lg-min) {
+		display: flex;
+		margin: 0 -10px;
+	}
+
+	li {
+		margin: 0 10px;
+	}
+
+	a {
+		text-decoration: none;
+
+		&:hover {
+			opacity: 0.8;
+		}
+	}
+}
